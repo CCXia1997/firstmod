@@ -1,0 +1,156 @@
+[23:32:58] [main/INFO]: Setting user: Player206
+[23:33:08] [main/WARN]: Skipping bad option: lastServer:
+[23:33:08] [main/INFO]: LWJGL Version: 2.9.4
+[23:33:17] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[23:33:28] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:33:28] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[23:33:28] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:33:29] [Thread-5/INFO]: OpenAL initialized.
+[23:33:29] [Sound Library Loader/INFO]: Sound engine started
+[23:33:43] [main/INFO]: Created: 1024x512 textures-atlas
+[23:33:48] [main/WARN]: Skipping bad option: lastServer:
+[23:33:48] [main/INFO]: Narrator library for x64 successfully loaded
+[23:33:53] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[23:34:22] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[23:34:22] [Server thread/INFO]: Generating keypair
+[23:34:25] [Server thread/INFO]: Loaded 488 advancements
+[23:34:25] [Server thread/INFO]: Preparing start region for level 0
+[23:34:26] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:34:48] [Server thread/INFO]: Player206[local:E:16fd9848] logged in with entity id 0 at (-13.730308080583516, 4.0, 2004.0392949605423)
+[23:34:48] [Server thread/INFO]: Player206加入了游戏
+[23:34:48] [Server thread/INFO]: Player206达成了目标[天空即为极限]
+[23:34:50] [Server thread/INFO]: Saving and pausing game...
+[23:34:51] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:34:52] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:34:52] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:34:55] [main/INFO]: [CHAT] Player206达成了目标[天空即为极限]
+[23:34:55] [main/INFO]: Loaded 12 advancements
+[23:34:57] [Server thread/INFO]: Saving and pausing game...
+[23:34:57] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:34:57] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:34:57] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:35:14] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@54a30700[id=2a040a11-2e73-3076-950d-54036bd62bd7,name=Player206,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3170) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_102]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_102]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_102]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_102]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_102]
+[23:35:17] [Server thread/INFO]: Saving and pausing game...
+[23:35:17] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:35:17] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:35:17] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:35:50] [main/INFO]: [CHAT] 成功设置：effect @p firstmod:wild 120 0
+[23:35:52] [Server thread/INFO]: [@: 给予Player206时长为120秒的狂暴（ID 0）*0效果]
+[23:35:52] [main/INFO]: [CHAT] [@: 给予Player206时长为120秒的狂暴（ID 0）*0效果]
+[23:36:04] [Server thread/INFO]: [Player206: 您的游戏模式已被设置为生存模式 ]
+[23:36:04] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[23:36:07] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间伤害（ID 7）*0效果]
+[23:36:07] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间伤害（ID 7）*0效果]
+[23:36:11] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:11] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:12] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:12] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:14] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:14] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:21] [Server thread/INFO]: [Player206: 您的游戏模式已被设置为创造模式 ]
+[23:36:21] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[23:36:28] [Server thread/INFO]: Saving and pausing game...
+[23:36:28] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:36:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:36:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:36:38] [main/INFO]: [CHAT] 成功设置：effect @p firstmod:wild 0 0
+[23:36:41] [Server thread/INFO]: [Player206: 您的游戏模式已被设置为生存模式 ]
+[23:36:41] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[23:36:44] [Server thread/INFO]: [@: 消除了Player206身上的狂暴]
+[23:36:44] [main/INFO]: [CHAT] [@: 消除了Player206身上的狂暴]
+[23:36:49] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间伤害（ID 7）*0效果]
+[23:36:49] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间伤害（ID 7）*0效果]
+[23:36:51] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:51] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:53] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:53] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:36:55] [Server thread/INFO]: [@: 给予Player206时长为120秒的狂暴（ID 0）*0效果]
+[23:36:55] [main/INFO]: [CHAT] [@: 给予Player206时长为120秒的狂暴（ID 0）*0效果]
+[23:36:57] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间伤害（ID 7）*0效果]
+[23:36:57] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间伤害（ID 7）*0效果]
+[23:36:59] [Server thread/INFO]: Saving and pausing game...
+[23:36:59] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:36:59] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:36:59] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:37:16] [Server thread/INFO]: Saving and pausing game...
+[23:37:16] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:37:16] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:37:16] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:38:17] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:38:17] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:38:19] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:38:19] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:38:21] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:38:21] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:38:24] [Server thread/INFO]: [@: 消除了Player206身上的狂暴]
+[23:38:24] [main/INFO]: [CHAT] [@: 消除了Player206身上的狂暴]
+[23:38:25] [Server thread/INFO]: [@: 将Player206的游戏模式改为生存模式]
+[23:38:25] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[23:38:25] [main/INFO]: [CHAT] [@: 将Player206的游戏模式改为生存模式]
+[23:38:27] [Server thread/INFO]: [@: 将Player206的游戏模式改为创造模式]
+[23:38:27] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[23:38:27] [main/INFO]: [CHAT] [@: 将Player206的游戏模式改为创造模式]
+[23:38:28] [Server thread/INFO]: Saving and pausing game...
+[23:38:28] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:38:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:38:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:38:37] [Server thread/INFO]: Saving and pausing game...
+[23:38:37] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:38:37] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:38:37] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:42:17] [Server thread/INFO]: Saving and pausing game...
+[23:42:17] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:42:17] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:42:17] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:42:42] [Server thread/INFO]: Saving and pausing game...
+[23:42:42] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:42:42] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:42:42] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:42:50] [Server thread/INFO]: [Player206: 您的游戏模式已被设置为生存模式 ]
+[23:42:50] [main/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[23:42:56] [Server thread/INFO]: [@: 给予Player206时长为120秒的狂暴（ID 0）*0效果]
+[23:42:56] [main/INFO]: [CHAT] [@: 给予Player206时长为120秒的狂暴（ID 0）*0效果]
+[23:43:08] [Server thread/INFO]: [@: 消除了Player206身上的狂暴]
+[23:43:08] [main/INFO]: [CHAT] [@: 消除了Player206身上的狂暴]
+[23:43:10] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:10] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:11] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:11] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:14] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:14] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:22] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:22] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:24] [Server thread/INFO]: [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:24] [main/INFO]: [CHAT] [@: 给予Player206时长为1秒的瞬间治疗（ID 6）*0效果]
+[23:43:27] [Server thread/INFO]: [@: 将Player206的游戏模式改为创造模式]
+[23:43:27] [main/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[23:43:27] [main/INFO]: [CHAT] [@: 将Player206的游戏模式改为创造模式]
+[23:43:28] [Server thread/INFO]: Saving and pausing game...
+[23:43:28] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:43:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:43:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[23:44:01] [Server thread/INFO]: Saving and pausing game...
+[23:44:01] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[23:44:01] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[23:44:01] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end

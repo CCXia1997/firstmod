@@ -1,0 +1,14 @@
+package com.ccxia.random;
+
+import java.util.Random;
+
+public class BlockDiamondOreRng {
+	public static void main(String[] args)
+	{
+		Random rand=new Random();
+		
+	}
+	
+	
+
+}

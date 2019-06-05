@@ -1,0 +1,40 @@
+package client.entity.render;
+
+import com.ccxia.firstmod.entity.EntityMagicalCube;
+import com.ccxia.firstmod.entity.EntityTest;
+import com.ccxia.firstmod.entity.model.ModelMagicalCube;
+
+import net.minecraft.client.model.ModelArmorStand;
+import net.minecraft.client.model.ModelBase;
+import net.minecraft.client.renderer.GlStateManager;
+import net.minecraft.client.renderer.entity.RenderLivingBase;
+import net.minecraft.client.renderer.entity.RenderManager;
+import net.minecraft.util.ResourceLocation;
+import net.minecraftforge.fml.relauncher.Side;
+import net.minecraftforge.fml.relauncher.SideOnly;
+
+@SideOnly(Side.CLIENT)
+public class RenderMagicalCube extends RenderLiving<EntityMagicalCube>{
+	
+	private static final ResourceLocation MAGICAL_CUBE=new ResourceLocation("firstmod","textures/entity/magical/magical_cube.png");
+
+	public RenderMagicalCube(RenderManager renderManagerIn) {
+		super(renderManagerIn,new ModelMagicalCube(),0.0F);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	protected ResourceLocation getEntityTexture(EntityMagicalCube entity) {
+		// TODO Auto-generated method stub
+		return MAGICAL_CUBE;
+	}
+
+    //渲染的核心，传入实体、实体坐标、转动角度以及tick值
+    @Override
+    public void doRender(EntityMagicalCube entity, double x, double y, double z, float entityYaw, float partialTicks)
+    {
+        super.doRender(entity, x, y, z, entityYaw, partialTicks);
+    }
+    
+
+}

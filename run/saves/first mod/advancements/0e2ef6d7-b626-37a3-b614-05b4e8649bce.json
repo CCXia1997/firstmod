@@ -1,0 +1,14 @@
+{
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-03-23 16:32:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-03-23 16:31:57 +0800"
+    },
+    "done": false
+  }
+}

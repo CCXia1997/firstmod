@@ -1,0 +1,22 @@
+package com.ccxia.random;
+
+import java.util.Random;
+
+public class BlockDiamondOreRng {
+	public static void main(String[] args)
+	{
+		Random rand=new Random();
+		rand.setSeed((long)(4530)* 341873128712L+(long)(0)*132897987541L+(-4547468296232501244L) + 10387319L); //-4547468296232501244L
+		for (int i = 0; i < 8; ++i) {
+            rand.nextInt();
+        }
+		for (int i = 0; i < 49; ++i) {
+            rand.nextInt();
+        }
+		rand.nextInt(50);
+		System.out.println(rand.nextInt(5));
+	}
+	
+	
+
+}

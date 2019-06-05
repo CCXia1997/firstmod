@@ -1,0 +1,142 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-03-08 23:28:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-03-08 23:27:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-03-08 23:27:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2019-03-08 23:27:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2019-03-08 23:28:03 +0800",
+      "bred_ocelot": "2019-03-08 23:28:03 +0800",
+      "bred_sheep": "2019-03-08 23:28:03 +0800",
+      "bred_wolf": "2019-03-08 23:28:03 +0800",
+      "bred_llama": "2019-03-08 23:28:03 +0800",
+      "bred_rabbit": "2019-03-08 23:28:03 +0800",
+      "bred_horse": "2019-03-08 23:28:03 +0800",
+      "bred_cow": "2019-03-08 23:28:03 +0800",
+      "bred_mooshroom": "2019-03-08 23:28:03 +0800",
+      "bred_pig": "2019-03-08 23:28:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2019-03-08 23:27:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2019-03-08 23:27:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2019-03-08 23:28:03 +0800",
+      "bred_ocelot": "2019-03-08 23:28:03 +0800",
+      "bred_sheep": "2019-03-08 23:28:03 +0800",
+      "bred_wolf": "2019-03-08 23:28:03 +0800",
+      "bred_llama": "2019-03-08 23:28:03 +0800",
+      "bred_rabbit": "2019-03-08 23:28:03 +0800",
+      "bred_horse": "2019-03-08 23:28:03 +0800",
+      "bred_cow": "2019-03-08 23:28:03 +0800",
+      "bred_mooshroom": "2019-03-08 23:28:03 +0800",
+      "bred_pig": "2019-03-08 23:28:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2019-03-08 23:28:03 +0800",
+      "chicken": "2019-03-08 23:28:03 +0800",
+      "cooked_mutton": "2019-03-08 23:28:03 +0800",
+      "cooked_beef": "2019-03-08 23:28:03 +0800",
+      "chorus_fruit": "2019-03-08 23:28:03 +0800",
+      "beef": "2019-03-08 23:28:03 +0800",
+      "baked_potato": "2019-03-08 23:28:03 +0800",
+      "porkchop": "2019-03-08 23:28:03 +0800",
+      "clownfish": "2019-03-08 23:28:03 +0800",
+      "beetroot_soup": "2019-03-08 23:28:03 +0800",
+      "apple": "2019-03-08 23:28:03 +0800",
+      "spider_eye": "2019-03-08 23:28:03 +0800",
+      "potato": "2019-03-08 23:28:03 +0800",
+      "cooked_cod": "2019-03-08 23:28:03 +0800",
+      "rabbit": "2019-03-08 23:28:03 +0800",
+      "poisonous_potato": "2019-03-08 23:28:03 +0800",
+      "melon": "2019-03-08 23:28:03 +0800",
+      "pumpkin_pie": "2019-03-08 23:28:03 +0800",
+      "raw_salmon": "2019-03-08 23:28:03 +0800",
+      "mutton": "2019-03-08 23:28:03 +0800",
+      "pufferfish": "2019-03-08 23:28:03 +0800",
+      "bread": "2019-03-08 23:28:03 +0800",
+      "golden_apple": "2019-03-08 23:28:03 +0800",
+      "cookie": "2019-03-08 23:28:03 +0800",
+      "rotten_flesh": "2019-03-08 23:28:03 +0800",
+      "raw_cod": "2019-03-08 23:28:03 +0800",
+      "golden_carrot": "2019-03-08 23:28:03 +0800",
+      "beetroot": "2019-03-08 23:28:03 +0800",
+      "cooked_rabbit": "2019-03-08 23:28:03 +0800",
+      "cooked_chicken": "2019-03-08 23:28:03 +0800",
+      "enchanted_golden_apple": "2019-03-08 23:28:03 +0800",
+      "mushroom_stew": "2019-03-08 23:28:03 +0800",
+      "rabbit_stew": "2019-03-08 23:28:03 +0800",
+      "cooked_salmon": "2019-03-08 23:28:03 +0800",
+      "carrot": "2019-03-08 23:28:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2019-03-08 23:27:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/break_diamond_hoe": {
+    "criteria": {
+      "broke_hoe": "2019-03-08 23:28:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2019-03-08 23:28:03 +0800",
+      "pumpkin_stem": "2019-03-08 23:28:03 +0800",
+      "melon_stem": "2019-03-08 23:28:03 +0800",
+      "nether_wart": "2019-03-08 23:28:03 +0800",
+      "wheat": "2019-03-08 23:28:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-03-08 23:27:56 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-03-08 23:28:03 +0800"
+    },
+    "done": true
+  }
+}

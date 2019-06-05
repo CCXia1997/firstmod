@@ -1,0 +1,114 @@
+---- Minecraft Crash Report ----
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 3/1/19 2:31 PM
+Description: Unexpected error
+
+java.lang.NullPointerException: Unexpected error
+	at com.ccxia.firstmod.potion.PotionWild.renderHUDEffect(PotionWild.java:32)
+	at net.minecraft.client.gui.GuiIngame.renderPotionEffects(GuiIngame.java:520)
+	at net.minecraftforge.client.GuiIngameForge.renderPotionIcons(GuiIngameForge.java:226)
+	at net.minecraftforge.client.GuiIngameForge.renderGameOverlay(GuiIngameForge.java:174)
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1151)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1192)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:436)
+	at net.minecraft.client.main.Main.main(Main.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+	at GradleStart.main(GradleStart.java:25)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at com.ccxia.firstmod.potion.PotionWild.renderHUDEffect(PotionWild.java:32)
+	at net.minecraft.client.gui.GuiIngame.renderPotionEffects(GuiIngame.java:520)
+	at net.minecraftforge.client.GuiIngameForge.renderPotionIcons(GuiIngameForge.java:226)
+	at net.minecraftforge.client.GuiIngameForge.renderGameOverlay(GuiIngameForge.java:174)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['Player236'/0, l='MpServer', x=-9.37, y=4.00, z=2001.65]]
+	Chunk stats: MultiplayerChunkCache: 82, 82
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-34,4,2023), Chunk: (at 14,0,7 in -3,126; contains blocks -48,0,2016 to -33,255,2031), Region: (-1,3; contains chunks -32,96 to -1,127, blocks -512,0,1536 to -1,255,2047)
+	Level time: 421706 game time, 5000 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 1 total; [EntityPlayerSP['Player236'/0, l='MpServer', x=-9.37, y=4.00, z=2001.65]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:461)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2878)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:465)
+	at net.minecraft.client.main.Main.main(Main.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+	at GradleStart.main(GradleStart.java:25)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_102, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 614466000 bytes (586 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.0.2490 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID        | Version      | Source                           | Signature |
+	|:--------- |:--------- |:------------ |:-------------------------------- |:--------- |
+	| UCHIJAAAA | minecraft | 1.12.2       | minecraft.jar                    | None      |
+	| UCHIJAAAA | mcp       | 9.42         | minecraft.jar                    | None      |
+	| UCHIJAAAA | FML       | 8.0.99.99    | forgeSrc-1.12.2-14.23.0.2490.jar | None      |
+	| UCHIJAAAA | forge     | 14.23.0.2490 | forgeSrc-1.12.2-14.23.0.2490.jar | None      |
+	| UCHIJAAAA | firstmod  | 1.0.1        | bin                              | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.4.12968 Compatibility Profile Context 14.201.1006.1001' Renderer: 'AMD Radeon R7 M260'
+	Launched Version: 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: AMD Radeon R7 M260 GL version 4.4.12968 Compatibility Profile Context 14.201.1006.1001, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: No
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 濠电姷鏁告慨鐑藉极閸涘﹥鍙忛柣鎴ｆ閺嬩線鏌涘☉姗堟敾闁告瑥绻橀弻锝夊閻樺樊妫岄梺杞扮閿曨亪寮婚垾鎰佸悑閹肩补锟藉磭顔愮紓鍌欑劍閸旀牠銆冮崱妯尖攳濠电姴娲ゅ洿闂佸憡渚楅崢钘夆枔閺屻儲鈷戦柛婵嗗椤ョ偟绱掗鑲┬ｇ紒宀冮哺缁绘繈宕堕‖顑洦鐓曟繛鎴濆船楠炴绻涢崼婵堝煟婵﹤鎼叅閻犲洦褰冪粻娲⒑閼姐倕鏆遍柡鍛Т椤曪絾绻濆顓炰簻闂佺绻掗崢褔鏁撻悾宀�甯涢柟渚垮妼铻栭柨鐔绘铻炴繛鍡樻尰閸嬧晠鏌涢锝嗙闁抽攱鍨块弻鐔兼嚃閳轰椒绮舵繝纰橈拷鐐藉仮闁哄本绋掔换婵嬪磼濞戞ü娣柣搴㈩問閸犳牠鈥﹂悜钘夋瀬闁归偊鍘肩欢鐐测攽閻樻彃顒㈢紓宥呭�垮缁樼瑹閿熻棄顭囪閹广垽宕卞☉妯兼煣濠电娀娼ч鍛矆婢舵劖鐓曟繝闈涘閸斻倗鐥幑鎰棄闁靛棙甯掗～婵嬵敆婵犲啯鏆伴梺璇插閼瑰墽绱炴繝鍥ц摕闁挎繂鐗忛悿锟介梺鍝勬川閸嬫鍒掗崼鏇熷仭婵犲﹤瀚ˉ瀣煕鐎ｎ剙鏋涙鐐村灴婵拷闁靛牆鎳庨懓鍨攽閻愭潙鐏﹂柣鐔濆洤鍌ㄦい蹇撶墛閳锋垿鏌涢幘鏉戠祷濞存粍绻勭槐鎺旀嫚閹绘帗娈婚悗瑙勬礀閸熻法鍙呭銈呯箰閹虫劙宕㈤柆宥嗏拺闁圭娴风粻鎾绘煙閾忣偄濮夌紒顔芥煥鐓ゆい蹇撴噽閸樻悂鎮楅惂鍛婂闁诲函缍嗛崜娑㈡晬閻斿吋鈷戦悹鎭掑妼閺嬫垿鏌＄�ｎ厼鍚圭�垫澘锕ょ叅妞ゅ繐瀚弻褍鈹戦悩缁樻锭闁绘绻橀幃铏節濮橆厾鍘搁梺鍛婂姂閸斿孩鏅跺☉銏＄厽闁规儳顕ú鎾煙椤旀枻鑰块柟顔界懃閳绘挾鎹勯妸銉バ繝鐢靛Л閹峰啴宕卞Δ鍐╊嚄闂備浇娉曢崰鏇炍涢崟顖涘�舵慨姗嗗墻閻斿棙淇婇婧匡拷瀣箯瀹勯偊娼╅柣鎾冲閻濇繈姊烘潪鎵妽闁圭懓娲ら锝夘敆閸曨倠褔鏌涢妷銏℃殨闁挎繂妫涚粻楣冩倵濞戞瑯鐒介柣顓炵焸閺屾稓锟斤綆鍓欐禒褏绱掗纰卞剶妤犵偞甯掕灃闁跨喓鏅划濠氭偡閹冲﹤缍婇弫鎰板川椤撶偠绶熼梻浣告贡閺屽鈻嶉敐鍥潟闁规儳鐡ㄦ刊鎾煕閹炬潙绲婚柛鎾冲船椤啴濡堕崱妤冧桓闂佽崵鍟块弲鐘荤嵁閸愵喗鍊锋繛锝庡墮娴滄繈姊洪崨濠傚闁哄懏绻堝畷銏℃綇閵娧呯槇闂佹眹鍨藉褍鐡梻浣告憸婵敻鎳濇ィ鍐ㄧ厺闁圭偓绶為悢鐑樺鐎规洖娲ㄩ悾楣冩⒒娴ｅ憡鍟為柣鐔村劦钘濇い鏍ㄧ♁閸欏繒锟藉箍鍎卞Λ顓炩枔娴犲鐓熼柟閭﹀幗缂嶆垶绻涢幖顓炴灍妞ゃ劊鍎甸幃娆愭綇閹规劧鎷风捄顭掓嫹鐟欏嫭绀堥柟铏崌閸┿儲寰勬繛鐐�婚梺褰掑亰閸樹粙顢欓幘缁樷拻闁稿本鑹鹃敓鑺ユ倐瀹曟劖顦版惔锝囩劶婵炴挻鐔幏閿嬵殽閻愬樊妯�闁轰焦鎹囬幃鈺咁敋閸℃ê顏堕梺鍛婂姦閸犳牠鏌嬮崶顒佺厪濠㈣泛鐗嗛崝銈夋煥濞戞瑧娲存慨濠呮缁辨帒螣閻戔晜瀚芥俊鐐�ら崢濂告偋閹炬眹锟戒礁顫濋懜鐢靛姸閻庡箍鍎卞Λ娑㈠储闁秵鈷戦柛婵嗗閸屻劑鏌涢弬璺ㄧ劯闁诡喗锕㈤弫鎾绘偐瀹曞洤甯楅梻鍌欑閻忔繈顢栭崨瀛樺�堕柍鍝勫暟绾惧ジ寮堕崼娑樺閻忓繋鍗抽弻鐔风暋閻楀牆娈楅梺纭呮珪閻楃娀宕洪崟顖氱闁靛ě鍌涙▕闂傚倷妞掔槐顔惧緤閸ф绀傛俊顖濇閺嗭箓鏌ｉ弮鍌楁嫛闁轰礁绉电换娑㈠箣閻愯泛顥濆Δ鐘靛仜閻楁挸顫忕紒妯诲缂佸瀵уВ鎰版⒑閸︻厸鎷￠柛瀣工閻ｇ兘骞囬鍓э紲濠碘槅鍨崇划顖炴偟閻戣姤鐓涘璺猴功婢ф劙鏌￠崨顔剧畼濠㈣娲熷畷妤冪箔鏉炴壆鐩庨梻浣告惈閸燁偊宕愰悷鎵虫瀺闁哄洢鍨洪悡娆撴煕閹邦厼绲绘い蹇ｅ亰閺屻劑鎮㈢紒姗嗘闂佽绻戦懝楣冣�﹂崹顔ョ喓娑甸柨瀣伓濠殿喗锕╅崑鍕暤閸℃稒鐓熸繛鎴濆船濞呭秶锟借娲栭悥濂搞�佸Δ浣哥窞閻庯綆鍋呴悵婊堟⒒閸屾瑨鍏屾い顓炵墢閹噣顢曢敃锟界壕褰掓煛閸ャ儱鐏╅柣銈囧亾閵囧嫯绠涢幘璺侯杸闂佹娊鏀辩敮锟犲蓟濞戞矮娌柛鎾楀嫬娅楃紓鍌欐濡炴帡宕￠幎钘夎摕婵炴垶鐔幏鐑芥晲鎼粹�茬盎婵犳鍠栫粔褰掑蓟瀹ュ唯妞ゆ牗绮庨弳銈夋倵鐟欏嫭绀�闁靛牆鎲℃穱濠囨倻閼恒儲娅囬梺璺ㄥ枍缁瑩寮幘璇茬９闁绘棃顥撻崢顐︽⒑闁稓鈹掗柛鏂跨焸閿濈偛顭ㄩ崼婵嗚�垮┑掳鍊ч幏閿嬵殽閻愬樊鍎旀慨濠冩そ瀹曨偊宕熼棃娑樺婵犵妲呴崑鍕疮閺夋埈鍤曞┑鐘宠壘閸楁娊鏌ㄥ☉妯侯伀闁哄鎮傞弻锝嗘償椤栨粎校婵炲瓨绮庨崗姗�鐛箛娑欏�婚柦妯侯槸閸炪劌顪冮妶鍡樺暗闁稿鍠栧畷銏ゆ焼瀹ュ棌鎷虹紒缁㈠幖閹冲繗銇愯濮婂宕熼銏╀純闂佽鍣换婵嗩嚕閹绢喗鍋勯柧蹇撴贡濡插洭姊婚崒姘拷鎼佹偋婵犲嫮鐭欓柟鐑橆檪婢跺鐓ラ柛鏇楁櫃缁ㄥ妫呴銏″闁规悂绠栭獮妤呮偐閻剙閰ｅ畷鎯邦檪闂婎剦鍓氶〃銉╂倷鐎涙ê纾冲Δ鐘靛仦鐢�愁嚕椤曪拷瀹曟帡宕掑Ο鍝勵潎濠殿喖锕ュ钘夌暦椤愶箑绀嬫い鎺嶇劍鐎氭娊姊绘担鍝勫姦闁哄應鏅犲畷瑙勫閹碱厽鏅梺鎸庣箓椤︿粙寮�ｎ喗鐓ラ柣鏂垮閻瑧锟芥鍣崑濠囩嵁濡》鎷烽棃娑橆棌婵炴潙瀚伴弻锝嗘償椤栨粎校闂佺顑呴幊搴ㄥ煝瀹ュ妫橀幖瀛樻尰閺傦拷闂備焦瀵х粙鎴狅拷姘煎墯缁傚秵绺介崨濠勫幈婵犵數濮撮崯鐗堟櫠閻㈢鎷峰▓鍨灈妞ゎ參鏀辨穱濠傤潰瀹�濠冃柣搴ゎ潐濞叉﹢鎮￠敓鐘茶摕闁绘柨鍚嬮崑瀣煕椤愩倕鏋旈柛鎴節濮婅櫣绱掑Ο璇查瀺闂佹寧娲忛崹钘夘嚕婵犳碍鍋勯柣姘摠鐎氬綊鏌ｉ姀鈽嗗晱闁绘帞鍋撻妵鍕償閵忊�崇３闂佸搫鐬奸崰鎰八囬悧鍫熷劅闁炽儱鍟跨粻锝夋⒒娴ｈ姤銆冮柣鎺炵畵瀹曟繈寮介鐐电暰闂佸搫鍊哥花閬嶅绩娴犲鐓曟い鎰╁�曢弸鎴炵箾閸滃啰鐣遍柍瑙勫灴閺佸秹宕熼鈩冩線闂備胶顭堣噹闁告侗鍨粭澶愭⒑鐟欏嫬鍔ゆい鏇ㄥ弮閵嗗懘寮婚妷锕�浠柡澶屽仦婵粙顢楅悢鍝ョ闁稿繗鍋愭晶鐢告煛鐏炵喎妫涢悿锟藉┑顔矫崥瀣礊閸儲鍊甸悷娆忓缁�锟藉銈忓閺佽顕ｆ繝姘嵆闁绘棁娅ｉ鏇㈡⒑閸撹尙鍘涢柛鐘崇墬閹便劑寮撮姀鈾�鎷虹紓鍌欑劍椤洨绱撳鑸电厱闁靛鍔嶉ˉ澶嬨亜椤愩垻绠伴悡銈嗐亜韫囨挻鍣瑰ù鐙�鍙冨娲传閸曞灚效闁诲海鐟抽崶鑸垫櫓闂佽法鍠嶇划娆忣潖缂佹ɑ濯撮柣鎴灻▓宀勬⒑閹肩偛锟芥牠鎮ч悩鑽ゅ祦闊洦绋掗弲鎼佹煥閻曞倹瀚�64X-1.11.zip
+	Current Language: 简体中文 (中国)
+	Profiler Position: N/A (disabled)
+	CPU: 4x Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz

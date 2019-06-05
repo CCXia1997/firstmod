@@ -1,0 +1,9 @@
+package com.ccxia.random;
+
+import java.util.Random;
+
+public class BlockDiamondOreRng {
+	
+	Random rand=new Random();
+
+}

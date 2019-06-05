@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;qiya-gui/rxtx&apos; to &apos;lib&apos;" description="Rename resource &apos;rxtx&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="rxtx" name="lib" stamp="1557337911421" updateReferences="true"/>
+</session>

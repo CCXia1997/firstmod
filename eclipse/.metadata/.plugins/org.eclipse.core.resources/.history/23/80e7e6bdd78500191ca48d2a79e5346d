@@ -1,0 +1,30 @@
+package com.ccxia.random;
+
+import java.util.Random;
+
+public class CauldronRng {
+	
+	public static void main(String[] args) //5086938182394799646L
+	{
+		Random rand=new Random();
+		rand.setSeed((long)(539)* 341873128712L+(long)(0)*132897987541L+(-4547468296232501244L) + 10387319L); //-4547468296232501244L
+		for (int i = 0; i < 8; ++i) {
+	        rand.nextInt();
+		}
+		int i1=rand.nextInt(20);
+		System.out.println(i1);
+		
+		int x;
+		for(x=0;x<5000;x++)
+		{
+			rand.setSeed((long)(x)* 341873128712L+(long)(0)*132897987541L+(-4547468296232501244L) + 10387319L);
+			for (int i = 0; i < 8; ++i) {
+		        rand.nextInt();
+			}
+			if(a1==1)
+				break;
+		}
+		System.out.println(x);
+	}
+
+}

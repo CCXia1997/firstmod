@@ -1,0 +1,40 @@
+Symbol range map extraction starting
+Processing 10 files
+startProcessing "client\ClientProxy.java" md5: 9eecc6f3d43d5021b17b5fec7e94abdf
+Cache Hit!
+endProcessing "client\ClientProxy.java"
+
+startProcessing "com\ccxia\firstmod\Firstmod.java" md5: bf1470d32516989676c95b55858f6944
+Cache Hit!
+endProcessing "com\ccxia\firstmod\Firstmod.java"
+
+startProcessing "com\ccxia\firstmod\block\BlockLoader.java" md5: 6d3645c96e0995060b70ae3656b1e4fe
+Cache Hit!
+endProcessing "com\ccxia\firstmod\block\BlockLoader.java"
+
+startProcessing "com\ccxia\firstmod\block\ModBlocks.java" md5: 3c2f879317c9a6bd02797155354b1f85
+Cache Hit!
+endProcessing "com\ccxia\firstmod\block\ModBlocks.java"
+
+startProcessing "com\ccxia\firstmod\block\OreGenerate.java" md5: 3d9d171fa50102153b4166702fe86e57
+endProcessing "com\ccxia\firstmod\block\OreGenerate.java"
+
+startProcessing "com\ccxia\firstmod\creativetab\CreativeTabsRedo.java" md5: 6c2491fae300b0c40097969b2aff6d69
+Cache Hit!
+endProcessing "com\ccxia\firstmod\creativetab\CreativeTabsRedo.java"
+
+startProcessing "com\ccxia\firstmod\item\CcxApple.java" md5: 78a3b10bc645c0985b3b0c0e97cc5171
+Cache Hit!
+endProcessing "com\ccxia\firstmod\item\CcxApple.java"
+
+startProcessing "com\ccxia\firstmod\item\ItemLoader.java" md5: 3a00eb85f6fbdc3dd9c8a110ba4dff1b
+Cache Hit!
+endProcessing "com\ccxia\firstmod\item\ItemLoader.java"
+
+startProcessing "com\ccxia\firstmod\item\ModItems.java" md5: a8d84a9242fb38568b6164054eed29ba
+Cache Hit!
+endProcessing "com\ccxia\firstmod\item\ModItems.java"
+
+startProcessing "common\CommonProxy.java" md5: 3ecbdbdc7143a2f2294e2d71f3221f11
+endProcessing "common\CommonProxy.java"
+

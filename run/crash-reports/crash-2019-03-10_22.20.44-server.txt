@@ -1,0 +1,84 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 3/10/19 10:20 PM
+Description: Ticking block entity
+
+java.lang.ClassCastException: net.minecraft.block.state.BlockStateContainer$StateImplementation cannot be cast to com.ccxia.firstmod.tileentity.TileEntityCraftStation
+	at com.ccxia.firstmod.tileentity.TileEntityBatteryBox.update(TileEntityBatteryBox.java:83)
+	at net.minecraft.world.World.updateEntities(World.java:1987)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:642)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:840)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:741)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:590)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.ccxia.firstmod.tileentity.TileEntityBatteryBox.update(TileEntityBatteryBox.java:83)
+
+-- Block entity being ticked --
+Details:
+	Name: firstmod:batterybox // com.ccxia.firstmod.tileentity.TileEntityBatteryBox
+	Block type: ID #260 (tile.batteryBox // com.ccxia.firstmod.block.BlockBatteryBox)
+	Block data value: 0 / 0x0 / 0b0000
+	Block location: World: (-14,5,1974), Chunk: (at 2,0,6 in -1,123; contains blocks -16,0,1968 to -1,255,1983), Region: (-1,3; contains chunks -32,96 to -1,127, blocks -512,0,1536 to -1,255,2047)
+	Actual block type: ID #260 (tile.batteryBox // com.ccxia.firstmod.block.BlockBatteryBox)
+	Actual block data value: 0 / 0x0 / 0b0000
+Stacktrace:
+	at net.minecraft.world.World.updateEntities(World.java:1987)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:642)
+
+-- Affected level --
+Details:
+	Level name: first mod
+	All players: 1 total; [EntityPlayerMP['Player340'/3, l='first mod', x=-12.25, y=4.00, z=1974.63]]
+	Chunk stats: ServerChunkCache: 625 Drop: 0
+	Level seed: -2459812031492074187
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 3;minecraft:bedrock,2*minecraft:dirt,minecraft:grass;1;village
+	Level spawn location: World: (-34,4,2023), Chunk: (at 14,0,7 in -3,126; contains blocks -48,0,2016 to -33,255,2031), Region: (-1,3; contains chunks -32,96 to -1,127, blocks -512,0,1536 to -1,255,2047)
+	Level time: 689754 game time, 5000 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 1 (now: false), thunder time: 1 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:840)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:741)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:590)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_102, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 750930584 bytes (716 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.0.2490 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID        | Version      | Source                           | Signature |
+	|:--------- |:--------- |:------------ |:-------------------------------- |:--------- |
+	| UCHIJAAAA | minecraft | 1.12.2       | minecraft.jar                    | None      |
+	| UCHIJAAAA | mcp       | 9.42         | minecraft.jar                    | None      |
+	| UCHIJAAAA | FML       | 8.0.99.99    | forgeSrc-1.12.2-14.23.0.2490.jar | None      |
+	| UCHIJAAAA | forge     | 14.23.0.2490 | forgeSrc-1.12.2-14.23.0.2490.jar | None      |
+	| UCHIJAAAA | firstmod  | 1.0.1        | bin                              | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['Player340'/3, l='first mod', x=-12.25, y=4.00, z=1974.63]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

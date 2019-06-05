@@ -1,0 +1,7 @@
+package com.ccxia.firstmod.entity.model;
+
+import net.minecraft.client.model.ModelBase;
+
+public class ModelMagicalCube extends ModelBase{
+
+}

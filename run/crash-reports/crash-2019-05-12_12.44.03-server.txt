@@ -1,0 +1,65 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 19-5-12 下午12:44
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: net/minecraftforge/client/model/ModelLoader
+	at com.ccxia.firstmod.block.BlockLoader.registerBlocks(BlockLoader.java:36)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_12_BlockLoader_registerBlocks_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:143)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:179)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:736)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:605)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:331)
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:128)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:550)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.ClassNotFoundException: net.minecraftforge.client.model.ModelLoader
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 12 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/renderer/block/model/ModelBakery
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 14 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.renderer.block.model.ModelBakery
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_102, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1428529680 bytes (1362 MB) / 1537998848 bytes (1466 MB) up to 2112618496 bytes (2014 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx2048M -Xms1500M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.0.2490 6 mods loaded, 6 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID        | Version      | Source                                | Signature |
+	|:----- |:--------- |:------------ |:------------------------------------- |:--------- |
+	| UCH   | minecraft | 1.12.2       | minecraft.jar                         | None      |
+	| UCH   | mcp       | 9.42         | minecraft.jar                         | None      |
+	| UCH   | FML       | 8.0.99.99    | forgeSrc-1.12.2-14.23.0.2490.jar      | None      |
+	| UCH   | forge     | 14.23.0.2490 | forgeSrc-1.12.2-14.23.0.2490.jar      | None      |
+	| UCE   | firstmod  | 1.0.1        | bin                                   | None      |
+	| UCH   | worldedit | 6.1.8        | worldedit-forge-mc1.12-6.1.8-dist.jar | None      |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

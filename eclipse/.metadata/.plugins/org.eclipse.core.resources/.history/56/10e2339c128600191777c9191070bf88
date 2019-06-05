@@ -1,0 +1,46 @@
+package com.ccxia.random;
+
+import java.util.Random;
+
+public class ParrotRng {
+	
+	public static void main(String[] args) //5086938182394799646L
+	{
+		Random rand=new Random();
+		rand.setSeed((long)(2)* 341873128712L+(long)(0)*132897987541L+(-4547468296232501244L) + 10387319L); //-4547468296232501244L
+		for (int i = 0; i < 8; ++i) {
+	        rand.nextInt();
+		}
+		System.out.println(rand.nextInt(50));
+		int x;
+		for(x=0;x<500;++x)
+		{
+			rand.setSeed((long)(x)* 341873128712L+(long)(0)*132897987541L+(-4547468296232501244L) + 10387319L);
+			for (int i = 0; i < 8; ++i) {
+		        rand.nextInt();
+			}
+			int a1=rand.nextInt(50);
+			if(a1==0)
+				break;
+		}
+		System.out.println(x);
+	}
+	
+	public void setSeed(Random rand,int x,int z,long worldSeed)
+	{
+		rand.setSeed((long)x* 341873128712L+(long)z*132897987541L+worldSeed + 10387319L);
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

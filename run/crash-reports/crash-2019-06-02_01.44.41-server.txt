@@ -1,0 +1,109 @@
+---- Minecraft Crash Report ----
+// Sorry :(
+
+Time: 6/2/19 1:44 AM
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+	at net.minecraft.enchantment.Enchantment.getEntityEquipment(Enchantment.java:73)
+	at net.minecraft.enchantment.EnchantmentHelper.getMaxEnchantmentLevel(EnchantmentHelper.java:214)
+	at net.minecraft.entity.EntityLivingBase.frostWalk(EntityLivingBase.java:405)
+	at net.minecraft.entity.EntityLivingBase.onEntityUpdate(EntityLivingBase.java:341)
+	at net.minecraft.entity.EntityLiving.onEntityUpdate(EntityLiving.java:247)
+	at net.minecraft.entity.Entity.onUpdate(Entity.java:464)
+	at net.minecraft.entity.EntityLivingBase.onUpdate(EntityLivingBase.java:2298)
+	at net.minecraft.entity.EntityLiving.onUpdate(EntityLiving.java:346)
+	at net.minecraft.entity.monster.EntityMob.onUpdate(EntityMob.java:57)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2150)
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:870)
+	at net.minecraft.world.World.updateEntity(World.java:2109)
+	at net.minecraft.world.World.updateEntities(World.java:1913)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:642)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:840)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:741)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:590)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.enchantment.Enchantment.getEntityEquipment(Enchantment.java:73)
+	at net.minecraft.enchantment.EnchantmentHelper.getMaxEnchantmentLevel(EnchantmentHelper.java:214)
+	at net.minecraft.entity.EntityLivingBase.frostWalk(EntityLivingBase.java:405)
+	at net.minecraft.entity.EntityLivingBase.onEntityUpdate(EntityLivingBase.java:341)
+	at net.minecraft.entity.EntityLiving.onEntityUpdate(EntityLiving.java:247)
+	at net.minecraft.entity.Entity.onUpdate(Entity.java:464)
+	at net.minecraft.entity.EntityLivingBase.onUpdate(EntityLivingBase.java:2298)
+	at net.minecraft.entity.EntityLiving.onUpdate(EntityLiving.java:346)
+	at net.minecraft.entity.monster.EntityMob.onUpdate(EntityMob.java:57)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2150)
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:870)
+	at net.minecraft.world.World.updateEntity(World.java:2109)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:magical_cube (com.ccxia.firstmod.entity.EntityMagicalCube)
+	Entity ID: 4
+	Entity Name: 魔方
+	Entity's Exact location: -2.50, 4.00, 1971.50
+	Entity's Block location: World: (-3,4,1971), Chunk: (at 13,0,3 in -1,123; contains blocks -16,0,1968 to -1,255,1983), Region: (-1,3; contains chunks -32,96 to -1,127, blocks -512,0,1536 to -1,255,2047)
+	Entity's Momentum: 0.00, 0.00, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.updateEntities(World.java:1913)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:642)
+
+-- Affected level --
+Details:
+	Level name: first mod
+	All players: 1 total; [EntityPlayerMP['Player180'/0, l='first mod', x=-2.17, y=4.00, z=1973.59]]
+	Chunk stats: ServerChunkCache: 625 Drop: 0
+	Level seed: -2459812031492074187
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 3;minecraft:bedrock,2*minecraft:dirt,minecraft:grass;1;village
+	Level spawn location: World: (23,4,1993), Chunk: (at 7,0,9 in 1,124; contains blocks 16,0,1984 to 31,255,1999), Region: (0,3; contains chunks 0,96 to 31,127, blocks 0,0,1536 to 511,255,2047)
+	Level time: 1269095 game time, 5000 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 1 (now: false), thunder time: 1 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:840)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:741)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:590)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_102, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 987252128 bytes (941 MB) / 1537998848 bytes (1466 MB) up to 2112618496 bytes (2014 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx2048M -Xms1500M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.0.2490 6 mods loaded, 6 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID        | Version      | Source                                | Signature |
+	|:--------- |:--------- |:------------ |:------------------------------------- |:--------- |
+	| UCHIJAAAA | minecraft | 1.12.2       | minecraft.jar                         | None      |
+	| UCHIJAAAA | mcp       | 9.42         | minecraft.jar                         | None      |
+	| UCHIJAAAA | FML       | 8.0.99.99    | forgeSrc-1.12.2-14.23.0.2490.jar      | None      |
+	| UCHIJAAAA | forge     | 14.23.0.2490 | forgeSrc-1.12.2-14.23.0.2490.jar      | None      |
+	| UCHIJAAAA | firstmod  | 1.0.1        | bin                                   | None      |
+	| UCHIJAAAA | worldedit | 6.1.8        | worldedit-forge-mc1.12-6.1.8-dist.jar | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['Player180'/0, l='first mod', x=-2.17, y=4.00, z=1973.59]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

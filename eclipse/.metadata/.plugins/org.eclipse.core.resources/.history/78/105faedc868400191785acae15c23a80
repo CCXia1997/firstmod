@@ -1,0 +1,5 @@
+package client.entity.render;
+
+public class RenderMagicalCube {
+
+}

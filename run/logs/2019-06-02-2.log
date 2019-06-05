@@ -1,0 +1,93 @@
+[01:23:06] [main/INFO]: Setting user: Player874
+[01:23:15] [main/WARN]: Skipping bad option: lastServer:
+[01:23:15] [main/INFO]: LWJGL Version: 2.9.4
+[01:23:25] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod, FMLFileResourcePack:WorldEdit
+[01:23:35] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:23:35] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[01:23:35] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:23:35] [Thread-5/INFO]: OpenAL initialized.
+[01:23:35] [Sound Library Loader/INFO]: Sound engine started
+[01:23:50] [main/INFO]: Created: 1024x512 textures-atlas
+[01:23:56] [main/WARN]: Skipping bad option: lastServer:
+[01:23:56] [main/INFO]: Narrator library for x64 successfully loaded
+[01:23:59] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[01:24:03] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[01:24:03] [Server thread/INFO]: Generating keypair
+[01:24:07] [Server thread/INFO]: Loaded 490 advancements
+[01:24:07] [Server thread/INFO]: Preparing start region for level 0
+[01:24:08] [Server thread/INFO]: Changing view distance to 12, from 10
+[01:24:13] [Server thread/INFO]: Player874[local:E:c66af39d] logged in with entity id 0 at (-2.134607311747171, 4.0, 1974.0215348856614)
+[01:24:13] [Server thread/INFO]: Player874加入了游戏
+[01:24:15] [Server thread/INFO]: Saving and pausing game...
+[01:24:15] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[01:24:15] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[01:24:15] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[01:24:16] [main/INFO]: Loaded 38 advancements
+[01:24:16] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@65ac5b58[id=545a2afa-533e-3fcd-9875-3ac2e8ca7acf,name=Player874,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3170) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_102]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_102]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_102]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_102]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_102]
+[01:24:19] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: net.minecraft.util.ReportedException: Saving entity NBT
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_102]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_102]
+	at net.minecraft.util.Util.runTask(Util.java:54) [Util.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:796) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:741) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192) [IntegratedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:590) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_102]
+Caused by: net.minecraft.util.ReportedException: Saving entity NBT
+	at net.minecraft.entity.Entity.writeToNBT(Entity.java:1978) ~[Entity.class:?]
+	at net.minecraft.item.ItemMonsterPlacer.applyItemEntityDataToEntity(ItemMonsterPlacer.java:159) ~[ItemMonsterPlacer.class:?]
+	at net.minecraft.item.ItemMonsterPlacer.onItemUse(ItemMonsterPlacer.java:107) ~[ItemMonsterPlacer.class:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:845) ~[ForgeHooks.class:?]
+	at net.minecraft.item.ItemStack.onItemUse(ItemStack.java:200) ~[ItemStack.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.processRightClickBlock(PlayerInteractionManager.java:504) ~[PlayerInteractionManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.processTryUseItemOnBlock(NetHandlerPlayServer.java:767) ~[NetHandlerPlayServer.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:68) ~[CPacketPlayerTryUseItemOnBlock.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:13) ~[CPacketPlayerTryUseItemOnBlock.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:21) ~[PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_102]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_102]
+	at net.minecraft.util.Util.runTask(Util.java:53) ~[Util.class:?]
+	... 5 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.entity.EntityLivingBase.writeEntityToNBT(EntityLivingBase.java:578) ~[EntityLivingBase.class:?]
+	at net.minecraft.entity.Entity.writeToNBT(Entity.java:1949) ~[Entity.class:?]
+	at net.minecraft.item.ItemMonsterPlacer.applyItemEntityDataToEntity(ItemMonsterPlacer.java:159) ~[ItemMonsterPlacer.class:?]
+	at net.minecraft.item.ItemMonsterPlacer.onItemUse(ItemMonsterPlacer.java:107) ~[ItemMonsterPlacer.class:?]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:845) ~[ForgeHooks.class:?]
+	at net.minecraft.item.ItemStack.onItemUse(ItemStack.java:200) ~[ItemStack.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.processRightClickBlock(PlayerInteractionManager.java:504) ~[PlayerInteractionManager.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.processTryUseItemOnBlock(NetHandlerPlayServer.java:767) ~[NetHandlerPlayServer.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:68) ~[CPacketPlayerTryUseItemOnBlock.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:13) ~[CPacketPlayerTryUseItemOnBlock.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:21) ~[PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_102]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_102]
+	at net.minecraft.util.Util.runTask(Util.java:53) ~[Util.class:?]
+	... 5 more
+[01:24:21] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[01:24:24] [Server thread/INFO]: Saving and pausing game...
+[01:24:24] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[01:24:24] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[01:24:24] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end

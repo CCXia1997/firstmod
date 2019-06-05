@@ -1,0 +1,16 @@
+package com.ccxia.random;
+
+import java.util.Random;
+
+public class SheepRng {
+	
+	public static void main(String[] args) //5086938182394799646L
+	{
+		Random rand=new Random();
+		rand.setSeed((long)(33)* 341873128712L+(long)(22)*132897987541L+(-4547468296232501244L) + 10387319L); //-4547468296232501244L
+		for (int i = 0; i < 8; ++i) {
+	        rand.nextInt();
+		}
+	}
+
+}

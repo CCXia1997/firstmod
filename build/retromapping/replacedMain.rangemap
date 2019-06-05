@@ -1,0 +1,444 @@
+Symbol range map extraction starting
+Processing 10 files
+startProcessing "client\ClientProxy.java" md5: 9eecc6f3d43d5021b17b5fec7e94abdf
+Cache Hit!
+@|client\ClientProxy.java|8|14|client|package|client|(file)
+Class Start: client.ClientProxy
+   @|client\ClientProxy.java|264|275|ClientProxy|class|client.ClientProxy
+   @|client\ClientProxy.java|284|295|CommonProxy|class|common.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|client\ClientProxy.java|353|358|event|param|client.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|client\ClientProxy.java|298|306|Override|class|java.lang.Override
+      @|client\ClientProxy.java|319|326|preInit|method|common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|client\ClientProxy.java|327|352|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|client\ClientProxy.java|367|374|preInit|method|common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|client\ClientProxy.java|375|380|event|param|client.ClientProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|client\ClientProxy.java|435|440|event|param|client.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|client\ClientProxy.java|386|394|Override|class|java.lang.Override
+      @|client\ClientProxy.java|407|411|init|method|common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|client\ClientProxy.java|412|434|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|client\ClientProxy.java|449|453|init|method|common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|client\ClientProxy.java|454|459|event|param|client.ClientProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|client\ClientProxy.java|522|527|event|param|client.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|client\ClientProxy.java|465|473|Override|class|java.lang.Override
+      @|client\ClientProxy.java|486|494|postInit|method|common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|client\ClientProxy.java|495|521|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|client\ClientProxy.java|536|544|postInit|method|common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|client\ClientProxy.java|545|550|event|param|client.ClientProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : client.ClientProxy
+endProcessing "client\ClientProxy.java"
+
+startProcessing "com\ccxia\firstmod\Firstmod.java" md5: bf1470d32516989676c95b55858f6944
+Cache Hit!
+@|com\ccxia\firstmod\Firstmod.java|8|26|com.ccxia.firstmod|package|com.ccxia.firstmod|(file)
+Class Start: com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|647|650|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\ccxia\firstmod\Firstmod.java|651|656|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\ccxia\firstmod\Firstmod.java|659|667|Firstmod|class|com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|668|673|MODID|field|com.ccxia.firstmod.Firstmod|MODID
+   @|com\ccxia\firstmod\Firstmod.java|674|678|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\ccxia\firstmod\Firstmod.java|681|689|Firstmod|class|com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|690|694|NAME|field|com.ccxia.firstmod.Firstmod|NAME
+   @|com\ccxia\firstmod\Firstmod.java|696|703|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\ccxia\firstmod\Firstmod.java|706|714|Firstmod|class|com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|715|722|VERSION|field|com.ccxia.firstmod.Firstmod|VERSION
+   @|com\ccxia\firstmod\Firstmod.java|724|749|acceptedMinecraftVersions|method|net.minecraftforge.fml.common.Mod|acceptedMinecraftVersions|()Ljava/lang/String;
+   @|com\ccxia\firstmod\Firstmod.java|775|783|Firstmod|class|com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|806|812|String|class|java.lang.String
+   @|com\ccxia\firstmod\Firstmod.java|806|812|String|class|java.lang.String
+   @|com\ccxia\firstmod\Firstmod.java|813|818|MODID|field|com.ccxia.firstmod.Firstmod|MODID|
+   @|com\ccxia\firstmod\Firstmod.java|853|859|String|class|java.lang.String
+   @|com\ccxia\firstmod\Firstmod.java|853|859|String|class|java.lang.String
+   @|com\ccxia\firstmod\Firstmod.java|860|864|NAME|field|com.ccxia.firstmod.Firstmod|NAME|
+   @|com\ccxia\firstmod\Firstmod.java|900|906|String|class|java.lang.String
+   @|com\ccxia\firstmod\Firstmod.java|900|906|String|class|java.lang.String
+   @|com\ccxia\firstmod\Firstmod.java|907|914|VERSION|field|com.ccxia.firstmod.Firstmod|VERSION|
+   @|com\ccxia\firstmod\Firstmod.java|1021|1032|CommonProxy|class|common.CommonProxy
+   @|com\ccxia\firstmod\Firstmod.java|927|937|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\ccxia\firstmod\Firstmod.java|938|948|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\ccxia\firstmod\Firstmod.java|972|982|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\ccxia\firstmod\Firstmod.java|1021|1032|CommonProxy|class|common.CommonProxy
+   @|com\ccxia\firstmod\Firstmod.java|1033|1038|proxy|field|com.ccxia.firstmod.Firstmod|proxy|
+   @|com\ccxia\firstmod\Firstmod.java|1080|1088|Firstmod|class|com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|1041|1049|Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\ccxia\firstmod\Firstmod.java|1050|1058|Firstmod|class|com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|1059|1064|MODID|field|com.ccxia.firstmod.Firstmod|MODID
+   @|com\ccxia\firstmod\Firstmod.java|1080|1088|Firstmod|class|com.ccxia.firstmod.Firstmod
+   @|com\ccxia\firstmod\Firstmod.java|1089|1097|instance|field|com.ccxia.firstmod.Firstmod|instance|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1166|1171|event|param|com.ccxia.firstmod.Firstmod|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\ccxia\firstmod\Firstmod.java|1100|1112|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ccxia\firstmod\Firstmod.java|1132|1139|preInit|method|com.ccxia.firstmod.Firstmod|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1140|1165|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\ccxia\firstmod\Firstmod.java|1174|1179|proxy|field|com.ccxia.firstmod.Firstmod|proxy
+      @|com\ccxia\firstmod\Firstmod.java|1180|1187|preInit|method|common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1188|1193|event|param|com.ccxia.firstmod.Firstmod|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1259|1264|event|param|com.ccxia.firstmod.Firstmod|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\ccxia\firstmod\Firstmod.java|1199|1211|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ccxia\firstmod\Firstmod.java|1231|1235|init|method|com.ccxia.firstmod.Firstmod|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1236|1258|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\ccxia\firstmod\Firstmod.java|1267|1272|proxy|field|com.ccxia.firstmod.Firstmod|proxy
+      @|com\ccxia\firstmod\Firstmod.java|1273|1277|init|method|common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1278|1283|event|param|com.ccxia.firstmod.Firstmod|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\ccxia\firstmod\Firstmod.java|1286|1298|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\ccxia\firstmod\Firstmod.java|1299|1310|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemStack;F)V
+      @|com\ccxia\firstmod\Firstmod.java|1311|1322|BlockLoader|class|com.ccxia.firstmod.block.BlockLoader
+      @|com\ccxia\firstmod\Firstmod.java|1323|1329|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\Firstmod.java|1338|1347|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ccxia\firstmod\Firstmod.java|1348|1358|ItemLoader|class|com.ccxia.firstmod.item.ItemLoader
+      @|com\ccxia\firstmod\Firstmod.java|1359|1364|items|field|com.ccxia.firstmod.item.ItemLoader|items
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1448|1453|event|param|com.ccxia.firstmod.Firstmod|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com\ccxia\firstmod\Firstmod.java|1380|1392|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\ccxia\firstmod\Firstmod.java|1412|1420|postInit|method|com.ccxia.firstmod.Firstmod|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1421|1447|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|com\ccxia\firstmod\Firstmod.java|1456|1461|proxy|field|com.ccxia.firstmod.Firstmod|proxy
+      @|com\ccxia\firstmod\Firstmod.java|1462|1470|postInit|method|common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\ccxia\firstmod\Firstmod.java|1471|1476|event|param|com.ccxia.firstmod.Firstmod|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.ccxia.firstmod.Firstmod
+endProcessing "com\ccxia\firstmod\Firstmod.java"
+
+startProcessing "com\ccxia\firstmod\block\BlockLoader.java" md5: 6d3645c96e0995060b70ae3656b1e4fe
+Cache Hit!
+@|com\ccxia\firstmod\block\BlockLoader.java|8|32|com.ccxia.firstmod.block|package|com.ccxia.firstmod.block|(file)
+Class Start: com.ccxia.firstmod.block.BlockLoader
+   @|com\ccxia\firstmod\block\BlockLoader.java|634|656|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
+   @|com\ccxia\firstmod\block\BlockLoader.java|657|662|modid|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|modid|()Ljava/lang/String;
+   @|com\ccxia\firstmod\block\BlockLoader.java|690|701|BlockLoader|class|com.ccxia.firstmod.block.BlockLoader
+   @|com\ccxia\firstmod\block\BlockLoader.java|719|724|Block|class|net.minecraft.block.Block
+   @|com\ccxia\firstmod\block\BlockLoader.java|719|724|Block|class|net.minecraft.block.Block
+   @|com\ccxia\firstmod\block\BlockLoader.java|727|733|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks|
+   @|com\ccxia\firstmod\block\BlockLoader.java|745|750|Block|class|net.minecraft.block.Block
+   @|com\ccxia\firstmod\block\BlockLoader.java|751|759|Material|class|net.minecraft.block.material.Material
+   @|com\ccxia\firstmod\block\BlockLoader.java|760|764|ROCK|field|net.minecraft.block.material.Material|ROCK
+   @|com\ccxia\firstmod\block\BlockLoader.java|766|784|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+   @|com\ccxia\firstmod\block\BlockLoader.java|799|814|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+   @|com\ccxia\firstmod\block\BlockLoader.java|828|842|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+   @|com\ccxia\firstmod\block\BlockLoader.java|843|859|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\block\BlockLoader.java|860|867|tabRedo|field|com.ccxia.firstmod.creativetab.CreativeTabsRedo|tabRedo
+   Method Start: getByName(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|com\ccxia\firstmod\block\BlockLoader.java|915|919|name|param|com.ccxia.firstmod.block.BlockLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/block/Block;|name|0
+      @|com\ccxia\firstmod\block\BlockLoader.java|892|897|Block|class|net.minecraft.block.Block
+      @|com\ccxia\firstmod\block\BlockLoader.java|898|907|getByName|method|com.ccxia.firstmod.block.BlockLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|com\ccxia\firstmod\block\BlockLoader.java|908|914|String|class|java.lang.String
+      @|com\ccxia\firstmod\block\BlockLoader.java|928|933|Block|class|net.minecraft.block.Block
+      @|com\ccxia\firstmod\block\BlockLoader.java|940|946|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|959|977|getUnlocalizedName|method|net.minecraft.block.Block|getUnlocalizedName|()Ljava/lang/String;
+      @|com\ccxia\firstmod\block\BlockLoader.java|980|986|equals|method|java.lang.String|equals|(Ljava/lang/Object;)Z
+      @|com\ccxia\firstmod\block\BlockLoader.java|987|991|name|param|com.ccxia.firstmod.block.BlockLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/block/Block;|name|0
+      @|com\ccxia\firstmod\block\BlockLoader.java|1019|1025|Blocks|class|net.minecraft.init.Blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|1026|1029|AIR|field|net.minecraft.init.Blocks|AIR
+   Method End: getByName(Ljava/lang/String;)Lnet/minecraft/block/Block;
+   Method Start: registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1118|1123|event|param|com.ccxia.firstmod.block.BlockLoader|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\ccxia\firstmod\block\BlockLoader.java|1037|1051|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\ccxia\firstmod\block\BlockLoader.java|1072|1086|registerBlocks|method|com.ccxia.firstmod.block.BlockLoader|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1087|1109|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register
+      @|com\ccxia\firstmod\block\BlockLoader.java|1111|1116|Block|class|net.minecraft.block.Block
+      @|com\ccxia\firstmod\block\BlockLoader.java|1132|1137|Block|class|net.minecraft.block.Block
+      @|com\ccxia\firstmod\block\BlockLoader.java|1146|1152|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|1156|1167|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|com\ccxia\firstmod\block\BlockLoader.java|1168|1198|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1199|1203|Item|class|net.minecraft.item.Item
+      @|com\ccxia\firstmod\block\BlockLoader.java|1204|1220|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1234|1255|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|com\ccxia\firstmod\block\BlockLoader.java|1262|1277|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1297|1302|event|param|com.ccxia.firstmod.block.BlockLoader|registerBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\ccxia\firstmod\block\BlockLoader.java|1303|1314|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1317|1325|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1338|1344|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|1348|1363|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1379|1385|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|1389|1400|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1409|1415|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|1419|1432|setResistance|method|net.minecraft.block.Block|setResistance|(F)Lnet/minecraft/block/Block;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1444|1450|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|1454|1467|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+   Method End: registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1560|1565|event|param|com.ccxia.firstmod.block.BlockLoader|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\ccxia\firstmod\block\BlockLoader.java|1481|1495|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\ccxia\firstmod\block\BlockLoader.java|1516|1529|registerItems|method|com.ccxia.firstmod.block.BlockLoader|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1530|1552|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register
+      @|com\ccxia\firstmod\block\BlockLoader.java|1554|1558|Item|class|net.minecraft.item.Item
+      @|com\ccxia\firstmod\block\BlockLoader.java|1574|1579|Block|class|net.minecraft.block.Block
+      @|com\ccxia\firstmod\block\BlockLoader.java|1588|1594|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+      @|com\ccxia\firstmod\block\BlockLoader.java|1598|1602|Item|class|net.minecraft.item.Item
+      @|com\ccxia\firstmod\block\BlockLoader.java|1619|1628|ItemBlock|class|net.minecraft.item.ItemBlock
+      @|com\ccxia\firstmod\block\BlockLoader.java|1636|1651|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1658|1673|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1679|1690|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|com\ccxia\firstmod\block\BlockLoader.java|1691|1721|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com\ccxia\firstmod\block\BlockLoader.java|1738|1759|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|com\ccxia\firstmod\block\BlockLoader.java|1766|1781|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1801|1806|event|param|com.ccxia.firstmod.block.BlockLoader|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\ccxia\firstmod\block\BlockLoader.java|1807|1818|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com\ccxia\firstmod\block\BlockLoader.java|1821|1829|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+   Method End: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+Class End  : com.ccxia.firstmod.block.BlockLoader
+endProcessing "com\ccxia\firstmod\block\BlockLoader.java"
+
+startProcessing "com\ccxia\firstmod\block\ModBlocks.java" md5: 3c2f879317c9a6bd02797155354b1f85
+Cache Hit!
+@|com\ccxia\firstmod\block\ModBlocks.java|8|32|com.ccxia.firstmod.block|package|com.ccxia.firstmod.block|(file)
+Class Start: com.ccxia.firstmod.block.ModBlocks
+   @|com\ccxia\firstmod\block\ModBlocks.java|81|90|ModBlocks|class|com.ccxia.firstmod.block.ModBlocks
+   @|com\ccxia\firstmod\block\ModBlocks.java|118|123|Block|class|net.minecraft.block.Block
+   @|com\ccxia\firstmod\block\ModBlocks.java|118|123|Block|class|net.minecraft.block.Block
+   @|com\ccxia\firstmod\block\ModBlocks.java|124|132|CCXBLOCK|field|com.ccxia.firstmod.block.ModBlocks|CCXBLOCK|
+   @|com\ccxia\firstmod\block\ModBlocks.java|147|155|CCXBLOCK|field|com.ccxia.firstmod.block.ModBlocks|CCXBLOCK
+   @|com\ccxia\firstmod\block\ModBlocks.java|158|169|BlockLoader|class|com.ccxia.firstmod.block.BlockLoader
+   @|com\ccxia\firstmod\block\ModBlocks.java|170|179|getByName|method|com.ccxia.firstmod.block.BlockLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+Class End  : com.ccxia.firstmod.block.ModBlocks
+endProcessing "com\ccxia\firstmod\block\ModBlocks.java"
+
+startProcessing "com\ccxia\firstmod\block\OreGenerate.java" md5: 3d9d171fa50102153b4166702fe86e57
+@|com\ccxia\firstmod\block\OreGenerate.java|8|32|com.ccxia.firstmod.block|package|com.ccxia.firstmod.block|(file)
+Class Start: com.ccxia.firstmod.block.OreGenerate
+   @|com\ccxia\firstmod\block\OreGenerate.java|354|365|OreGenerate|class|com.ccxia.firstmod.block.OreGenerate
+   @|com\ccxia\firstmod\block\OreGenerate.java|377|392|IWorldGenerator|class|net.minecraftforge.fml.common.IWorldGenerator
+   @|com\ccxia\firstmod\block\OreGenerate.java|395|410|WorldGenMinable|class|net.minecraft.world.gen.feature.WorldGenMinable
+   @|com\ccxia\firstmod\block\OreGenerate.java|395|410|WorldGenMinable|class|net.minecraft.world.gen.feature.WorldGenMinable
+   @|com\ccxia\firstmod\block\OreGenerate.java|411|423|ore_generate|field|com.ccxia.firstmod.block.OreGenerate|ore_generate|
+   @|com\ccxia\firstmod\block\OreGenerate.java|430|445|WorldGenMinable|class|net.minecraft.world.gen.feature.WorldGenMinable
+   @|com\ccxia\firstmod\block\OreGenerate.java|446|457|BlockLoader|class|com.ccxia.firstmod.block.BlockLoader
+   @|com\ccxia\firstmod\block\OreGenerate.java|458|464|blocks|field|com.ccxia.firstmod.block.BlockLoader|blocks
+   @|com\ccxia\firstmod\block\OreGenerate.java|468|483|getDefaultState|method|net.minecraft.block.Block|getDefaultState|()Lnet/minecraft/block/state/IBlockState;
+   Method Start: generateMainWorld(Ljava/util/Random;IILnet/minecraft/world/World;)V
+      @|com\ccxia\firstmod\block\OreGenerate.java|528|534|random|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|random|0
+      @|com\ccxia\firstmod\block\OreGenerate.java|540|547|chunk_x|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|chunk_x|1
+      @|com\ccxia\firstmod\block\OreGenerate.java|553|560|chunk_z|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|chunk_z|2
+      @|com\ccxia\firstmod\block\OreGenerate.java|568|573|world|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|world|3
+      @|com\ccxia\firstmod\block\OreGenerate.java|503|520|generateMainWorld|method|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V
+      @|com\ccxia\firstmod\block\OreGenerate.java|521|527|Random|class|java.util.Random
+      @|com\ccxia\firstmod\block\OreGenerate.java|562|567|World|class|net.minecraft.world.World
+      @|com\ccxia\firstmod\block\OreGenerate.java|670|678|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|com\ccxia\firstmod\block\OreGenerate.java|692|700|BlockPos|class|net.minecraft.util.math.BlockPos
+      @|com\ccxia\firstmod\block\OreGenerate.java|714|721|chunk_x|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|chunk_x|1
+      @|com\ccxia\firstmod\block\OreGenerate.java|727|733|random|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|random|0
+      @|com\ccxia\firstmod\block\OreGenerate.java|734|741|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com\ccxia\firstmod\block\OreGenerate.java|759|765|random|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|random|0
+      @|com\ccxia\firstmod\block\OreGenerate.java|766|773|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com\ccxia\firstmod\block\OreGenerate.java|791|798|chunk_z|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|chunk_z|2
+      @|com\ccxia\firstmod\block\OreGenerate.java|804|810|random|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|random|0
+      @|com\ccxia\firstmod\block\OreGenerate.java|811|818|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com\ccxia\firstmod\block\OreGenerate.java|833|845|ore_generate|field|com.ccxia.firstmod.block.OreGenerate|ore_generate
+      @|com\ccxia\firstmod\block\OreGenerate.java|846|854|generate|method|net.minecraft.world.gen.feature.WorldGenerator|generate|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z
+      @|com\ccxia\firstmod\block\OreGenerate.java|855|860|world|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|world|3
+      @|com\ccxia\firstmod\block\OreGenerate.java|862|868|random|param|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V|random|0
+   Method End: generateMainWorld(Ljava/util/Random;IILnet/minecraft/world/World;)V
+   Method Start: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|com\ccxia\firstmod\block\OreGenerate.java|915|921|random|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com\ccxia\firstmod\block\OreGenerate.java|927|933|chunkX|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|com\ccxia\firstmod\block\OreGenerate.java|939|945|chunkZ|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|com\ccxia\firstmod\block\OreGenerate.java|953|958|world|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com\ccxia\firstmod\block\OreGenerate.java|976|990|chunkGenerator|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkGenerator|4
+      @|com\ccxia\firstmod\block\OreGenerate.java|1007|1020|chunkProvider|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkProvider|5
+      @|com\ccxia\firstmod\block\OreGenerate.java|899|907|generate|method|net.minecraftforge.fml.common.IWorldGenerator|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|com\ccxia\firstmod\block\OreGenerate.java|908|914|Random|class|java.util.Random
+      @|com\ccxia\firstmod\block\OreGenerate.java|947|952|World|class|net.minecraft.world.World
+      @|com\ccxia\firstmod\block\OreGenerate.java|960|975|IChunkGenerator|class|net.minecraft.world.gen.IChunkGenerator
+      @|com\ccxia\firstmod\block\OreGenerate.java|992|1006|IChunkProvider|class|net.minecraft.world.chunk.IChunkProvider
+      @|com\ccxia\firstmod\block\OreGenerate.java|1032|1037|world|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com\ccxia\firstmod\block\OreGenerate.java|1038|1046|provider|field|net.minecraft.world.World|provider
+      @|com\ccxia\firstmod\block\OreGenerate.java|1047|1059|getDimension|method|net.minecraft.world.WorldProvider|getDimension|()I
+      @|com\ccxia\firstmod\block\OreGenerate.java|1074|1091|generateMainWorld|method|com.ccxia.firstmod.block.OreGenerate|generateMainWorld|(Ljava/util/Random;IILnet/minecraft/world/World;)V
+      @|com\ccxia\firstmod\block\OreGenerate.java|1092|1098|random|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com\ccxia\firstmod\block\OreGenerate.java|1099|1105|chunkX|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|com\ccxia\firstmod\block\OreGenerate.java|1106|1112|chunkZ|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|com\ccxia\firstmod\block\OreGenerate.java|1113|1118|world|param|com.ccxia.firstmod.block.OreGenerate|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+   Method End: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+Class End  : com.ccxia.firstmod.block.OreGenerate
+endProcessing "com\ccxia\firstmod\block\OreGenerate.java"
+
+startProcessing "com\ccxia\firstmod\creativetab\CreativeTabsRedo.java" md5: 6c2491fae300b0c40097969b2aff6d69
+Cache Hit!
+@|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|8|38|com.ccxia.firstmod.creativetab|package|com.ccxia.firstmod.creativetab|(file)
+Class Start: com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|180|196|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|205|217|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|238|254|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|238|254|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|255|262|tabRedo|field|com.ccxia.firstmod.creativetab.CreativeTabsRedo|tabRedo|
+   @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|269|285|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   Method Start: CreativeTabsRedo()V
+      @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|300|316|CreativeTabsRedo|method|com.ccxia.firstmod.creativetab.CreativeTabsRedo|CreativeTabsRedo|()V
+   Method End: CreativeTabsRedo()V
+   Method Start: getTabIconItem()Lnet/minecraft/item/ItemStack;
+      @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|365|374|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|375|389|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/ItemStack;
+      @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|417|426|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|427|437|ItemLoader|class|com.ccxia.firstmod.item.ItemLoader
+      @|com\ccxia\firstmod\creativetab\CreativeTabsRedo.java|438|443|items|field|com.ccxia.firstmod.item.ItemLoader|items
+   Method End: getTabIconItem()Lnet/minecraft/item/ItemStack;
+Class End  : com.ccxia.firstmod.creativetab.CreativeTabsRedo
+endProcessing "com\ccxia\firstmod\creativetab\CreativeTabsRedo.java"
+
+startProcessing "com\ccxia\firstmod\item\CcxApple.java" md5: 78a3b10bc645c0985b3b0c0e97cc5171
+Cache Hit!
+@|com\ccxia\firstmod\item\CcxApple.java|8|31|com.ccxia.firstmod.item|package|com.ccxia.firstmod.item|(file)
+Class Start: com.ccxia.firstmod.item.CcxApple
+   @|com\ccxia\firstmod\item\CcxApple.java|350|358|CcxApple|class|com.ccxia.firstmod.item.CcxApple
+   @|com\ccxia\firstmod\item\CcxApple.java|367|375|ItemFood|class|net.minecraft.item.ItemFood
+   Method Start: CcxApple(IFZ)V
+      @|com\ccxia\firstmod\item\CcxApple.java|399|405|amount|param|com.ccxia.firstmod.item.CcxApple|CcxApple|(IFZ)V|amount|0
+      @|com\ccxia\firstmod\item\CcxApple.java|413|423|saturation|param|com.ccxia.firstmod.item.CcxApple|CcxApple|(IFZ)V|saturation|1
+      @|com\ccxia\firstmod\item\CcxApple.java|433|443|isWolfFood|param|com.ccxia.firstmod.item.CcxApple|CcxApple|(IFZ)V|isWolfFood|2
+      @|com\ccxia\firstmod\item\CcxApple.java|386|394|CcxApple|method|com.ccxia.firstmod.item.CcxApple|CcxApple|(IFZ)V
+      @|com\ccxia\firstmod\item\CcxApple.java|455|461|amount|param|com.ccxia.firstmod.item.CcxApple|CcxApple|(IFZ)V|amount|0
+      @|com\ccxia\firstmod\item\CcxApple.java|463|473|saturation|param|com.ccxia.firstmod.item.CcxApple|CcxApple|(IFZ)V|saturation|1
+      @|com\ccxia\firstmod\item\CcxApple.java|475|485|isWolfFood|param|com.ccxia.firstmod.item.CcxApple|CcxApple|(IFZ)V|isWolfFood|2
+      @|com\ccxia\firstmod\item\CcxApple.java|495|510|setAlwaysEdible|method|net.minecraft.item.ItemFood|setAlwaysEdible|()Lnet/minecraft/item/ItemFood;
+   Method End: CcxApple(IFZ)V
+   Method Start: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      @|com\ccxia\firstmod\item\CcxApple.java|598|603|stack|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|stack|0
+      @|com\ccxia\firstmod\item\CcxApple.java|611|618|worldIn|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com\ccxia\firstmod\item\CcxApple.java|633|639|player|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com\ccxia\firstmod\item\CcxApple.java|576|587|onFoodEaten|method|net.minecraft.item.ItemFood|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      @|com\ccxia\firstmod\item\CcxApple.java|588|597|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\ccxia\firstmod\item\CcxApple.java|605|610|World|class|net.minecraft.world.World
+      @|com\ccxia\firstmod\item\CcxApple.java|620|632|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer
+      @|com\ccxia\firstmod\item\CcxApple.java|662|669|worldIn|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com\ccxia\firstmod\item\CcxApple.java|670|678|isRemote|field|net.minecraft.world.World|isRemote
+      @|com\ccxia\firstmod\item\CcxApple.java|704|710|player|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com\ccxia\firstmod\item\CcxApple.java|711|726|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com\ccxia\firstmod\item\CcxApple.java|731|743|PotionEffect|class|net.minecraft.potion.PotionEffect
+      @|com\ccxia\firstmod\item\CcxApple.java|744|754|MobEffects|class|net.minecraft.init.MobEffects
+      @|com\ccxia\firstmod\item\CcxApple.java|755|765|ABSORPTION|field|net.minecraft.init.MobEffects|ABSORPTION
+      @|com\ccxia\firstmod\item\CcxApple.java|791|797|player|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com\ccxia\firstmod\item\CcxApple.java|798|813|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com\ccxia\firstmod\item\CcxApple.java|818|830|PotionEffect|class|net.minecraft.potion.PotionEffect
+      @|com\ccxia\firstmod\item\CcxApple.java|831|841|MobEffects|class|net.minecraft.init.MobEffects
+      @|com\ccxia\firstmod\item\CcxApple.java|842|857|FIRE_RESISTANCE|field|net.minecraft.init.MobEffects|FIRE_RESISTANCE
+      @|com\ccxia\firstmod\item\CcxApple.java|886|892|player|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com\ccxia\firstmod\item\CcxApple.java|893|908|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com\ccxia\firstmod\item\CcxApple.java|913|925|PotionEffect|class|net.minecraft.potion.PotionEffect
+      @|com\ccxia\firstmod\item\CcxApple.java|926|936|MobEffects|class|net.minecraft.init.MobEffects
+      @|com\ccxia\firstmod\item\CcxApple.java|937|945|STRENGTH|field|net.minecraft.init.MobEffects|STRENGTH
+      @|com\ccxia\firstmod\item\CcxApple.java|974|980|player|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com\ccxia\firstmod\item\CcxApple.java|981|996|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com\ccxia\firstmod\item\CcxApple.java|1001|1013|PotionEffect|class|net.minecraft.potion.PotionEffect
+      @|com\ccxia\firstmod\item\CcxApple.java|1014|1024|MobEffects|class|net.minecraft.init.MobEffects
+      @|com\ccxia\firstmod\item\CcxApple.java|1025|1030|SPEED|field|net.minecraft.init.MobEffects|SPEED
+      @|com\ccxia\firstmod\item\CcxApple.java|1068|1073|stack|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|stack|0
+      @|com\ccxia\firstmod\item\CcxApple.java|1074|1085|getMetadata|method|net.minecraft.item.ItemStack|getMetadata|()I
+      @|com\ccxia\firstmod\item\CcxApple.java|1122|1129|worldIn|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com\ccxia\firstmod\item\CcxApple.java|1130|1138|isRemote|field|net.minecraft.world.World|isRemote
+      @|com\ccxia\firstmod\item\CcxApple.java|1243|1254|onFoodEaten|method|net.minecraft.item.ItemFood|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      @|com\ccxia\firstmod\item\CcxApple.java|1255|1260|stack|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|stack|0
+      @|com\ccxia\firstmod\item\CcxApple.java|1262|1269|worldIn|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com\ccxia\firstmod\item\CcxApple.java|1271|1277|player|param|com.ccxia.firstmod.item.CcxApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+   Method End: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+Class End  : com.ccxia.firstmod.item.CcxApple
+endProcessing "com\ccxia\firstmod\item\CcxApple.java"
+
+startProcessing "com\ccxia\firstmod\item\ItemLoader.java" md5: 3a00eb85f6fbdc3dd9c8a110ba4dff1b
+Cache Hit!
+@|com\ccxia\firstmod\item\ItemLoader.java|8|31|com.ccxia.firstmod.item|package|com.ccxia.firstmod.item|(file)
+Class Start: com.ccxia.firstmod.item.ItemLoader
+   @|com\ccxia\firstmod\item\ItemLoader.java|614|636|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber
+   @|com\ccxia\firstmod\item\ItemLoader.java|637|642|modid|method|net.minecraftforge.fml.common.Mod.EventBusSubscriber|modid|()Ljava/lang/String;
+   @|com\ccxia\firstmod\item\ItemLoader.java|670|680|ItemLoader|class|com.ccxia.firstmod.item.ItemLoader
+   @|com\ccxia\firstmod\item\ItemLoader.java|698|702|Item|class|net.minecraft.item.Item
+   @|com\ccxia\firstmod\item\ItemLoader.java|698|702|Item|class|net.minecraft.item.Item
+   @|com\ccxia\firstmod\item\ItemLoader.java|705|710|items|field|com.ccxia.firstmod.item.ItemLoader|items|
+   @|com\ccxia\firstmod\item\ItemLoader.java|722|731|ItemSword|class|net.minecraft.item.ItemSword
+   @|com\ccxia\firstmod\item\ItemLoader.java|732|742|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|com\ccxia\firstmod\item\ItemLoader.java|743|758|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com\ccxia\firstmod\item\ItemLoader.java|795|813|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+   @|com\ccxia\firstmod\item\ItemLoader.java|824|839|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+   @|com\ccxia\firstmod\item\ItemLoader.java|850|864|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+   @|com\ccxia\firstmod\item\ItemLoader.java|865|881|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\item\ItemLoader.java|882|889|tabRedo|field|com.ccxia.firstmod.creativetab.CreativeTabsRedo|tabRedo
+   @|com\ccxia\firstmod\item\ItemLoader.java|899|903|Item|class|net.minecraft.item.Item
+   @|com\ccxia\firstmod\item\ItemLoader.java|906|924|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+   @|com\ccxia\firstmod\item\ItemLoader.java|937|952|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+   @|com\ccxia\firstmod\item\ItemLoader.java|966|980|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+   @|com\ccxia\firstmod\item\ItemLoader.java|981|997|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\item\ItemLoader.java|998|1005|tabRedo|field|com.ccxia.firstmod.creativetab.CreativeTabsRedo|tabRedo
+   @|com\ccxia\firstmod\item\ItemLoader.java|1015|1023|CcxApple|class|com.ccxia.firstmod.item.CcxApple
+   @|com\ccxia\firstmod\item\ItemLoader.java|1039|1057|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+   @|com\ccxia\firstmod\item\ItemLoader.java|1070|1085|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+   @|com\ccxia\firstmod\item\ItemLoader.java|1099|1113|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+   @|com\ccxia\firstmod\item\ItemLoader.java|1114|1130|CreativeTabsRedo|class|com.ccxia.firstmod.creativetab.CreativeTabsRedo
+   @|com\ccxia\firstmod\item\ItemLoader.java|1131|1138|tabRedo|field|com.ccxia.firstmod.creativetab.CreativeTabsRedo|tabRedo
+   Method Start: getByName(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ccxia\firstmod\item\ItemLoader.java|1183|1187|name|param|com.ccxia.firstmod.item.ItemLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/item/Item;|name|0
+      @|com\ccxia\firstmod\item\ItemLoader.java|1161|1165|Item|class|net.minecraft.item.Item
+      @|com\ccxia\firstmod\item\ItemLoader.java|1166|1175|getByName|method|com.ccxia.firstmod.item.ItemLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com\ccxia\firstmod\item\ItemLoader.java|1176|1182|String|class|java.lang.String
+      @|com\ccxia\firstmod\item\ItemLoader.java|1196|1200|Item|class|net.minecraft.item.Item
+      @|com\ccxia\firstmod\item\ItemLoader.java|1206|1211|items|field|com.ccxia.firstmod.item.ItemLoader|items
+      @|com\ccxia\firstmod\item\ItemLoader.java|1223|1241|getUnlocalizedName|method|net.minecraft.item.Item|getUnlocalizedName|()Ljava/lang/String;
+      @|com\ccxia\firstmod\item\ItemLoader.java|1244|1250|equals|method|java.lang.String|equals|(Ljava/lang/Object;)Z
+      @|com\ccxia\firstmod\item\ItemLoader.java|1251|1255|name|param|com.ccxia.firstmod.item.ItemLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/item/Item;|name|0
+      @|com\ccxia\firstmod\item\ItemLoader.java|1282|1287|Items|class|net.minecraft.init.Items
+      @|com\ccxia\firstmod\item\ItemLoader.java|1288|1291|AIR|field|net.minecraft.init.Items|AIR
+   Method End: getByName(Ljava/lang/String;)Lnet/minecraft/item/Item;
+   Method Start: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\ccxia\firstmod\item\ItemLoader.java|1378|1383|event|param|com.ccxia.firstmod.item.ItemLoader|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\ccxia\firstmod\item\ItemLoader.java|1299|1313|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+      @|com\ccxia\firstmod\item\ItemLoader.java|1334|1347|registerItems|method|com.ccxia.firstmod.item.ItemLoader|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com\ccxia\firstmod\item\ItemLoader.java|1348|1370|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register
+      @|com\ccxia\firstmod\item\ItemLoader.java|1372|1376|Item|class|net.minecraft.item.Item
+      @|com\ccxia\firstmod\item\ItemLoader.java|1392|1396|Item|class|net.minecraft.item.Item
+      @|com\ccxia\firstmod\item\ItemLoader.java|1404|1409|items|field|com.ccxia.firstmod.item.ItemLoader|items
+      @|com\ccxia\firstmod\item\ItemLoader.java|1414|1425|ModelLoader|class|net.minecraftforge.client.model.ModelLoader
+      @|com\ccxia\firstmod\item\ItemLoader.java|1426|1456|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com\ccxia\firstmod\item\ItemLoader.java|1468|1489|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|com\ccxia\firstmod\item\ItemLoader.java|1495|1510|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com\ccxia\firstmod\item\ItemLoader.java|1530|1535|event|param|com.ccxia.firstmod.item.ItemLoader|registerItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com\ccxia\firstmod\item\ItemLoader.java|1536|1547|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com\ccxia\firstmod\item\ItemLoader.java|1550|1558|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+   Method End: registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+Class End  : com.ccxia.firstmod.item.ItemLoader
+endProcessing "com\ccxia\firstmod\item\ItemLoader.java"
+
+startProcessing "com\ccxia\firstmod\item\ModItems.java" md5: a8d84a9242fb38568b6164054eed29ba
+Cache Hit!
+@|com\ccxia\firstmod\item\ModItems.java|8|31|com.ccxia.firstmod.item|package|com.ccxia.firstmod.item|(file)
+Class Start: com.ccxia.firstmod.item.ModItems
+   @|com\ccxia\firstmod\item\ModItems.java|78|86|ModItems|class|com.ccxia.firstmod.item.ModItems
+   @|com\ccxia\firstmod\item\ModItems.java|110|114|Item|class|net.minecraft.item.Item
+   @|com\ccxia\firstmod\item\ModItems.java|110|114|Item|class|net.minecraft.item.Item
+   @|com\ccxia\firstmod\item\ModItems.java|115|121|RUBBLE|field|com.ccxia.firstmod.item.ModItems|RUBBLE|
+   @|com\ccxia\firstmod\item\ModItems.java|133|139|RUBBLE|field|com.ccxia.firstmod.item.ModItems|RUBBLE
+   @|com\ccxia\firstmod\item\ModItems.java|142|152|ItemLoader|class|com.ccxia.firstmod.item.ItemLoader
+   @|com\ccxia\firstmod\item\ModItems.java|153|162|getByName|method|com.ccxia.firstmod.item.ItemLoader|getByName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+Class End  : com.ccxia.firstmod.item.ModItems
+endProcessing "com\ccxia\firstmod\item\ModItems.java"
+
+startProcessing "common\CommonProxy.java" md5: 3ecbdbdc7143a2f2294e2d71f3221f11
+@|common\CommonProxy.java|8|14|common|package|common|(file)
+Class Start: common.CommonProxy
+   @|common\CommonProxy.java|297|308|CommonProxy|class|common.CommonProxy
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|common\CommonProxy.java|357|362|event|param|common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|common\CommonProxy.java|323|330|preInit|method|common.CommonProxy|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|common\CommonProxy.java|331|356|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|common\CommonProxy.java|406|411|event|param|common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|common\CommonProxy.java|378|382|init|method|common.CommonProxy|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|common\CommonProxy.java|383|405|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|common\CommonProxy.java|415|427|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|common\CommonProxy.java|428|450|registerWorldGenerator|method|net.minecraftforge.fml.common.registry.GameRegistry|registerWorldGenerator|(Lnet/minecraftforge/fml/common/IWorldGenerator;I)V
+      @|common\CommonProxy.java|455|491|com.ccxia.firstmod.block.OreGenerate|class|com.ccxia.firstmod.block.OreGenerate
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|common\CommonProxy.java|549|554|event|param|common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|common\CommonProxy.java|513|521|postInit|method|common.CommonProxy|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|common\CommonProxy.java|522|548|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : common.CommonProxy
+endProcessing "common\CommonProxy.java"
+

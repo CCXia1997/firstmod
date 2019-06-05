@@ -1,0 +1,132 @@
+---- Minecraft Crash Report ----
+// Oh - I know what I did wrong!
+
+Time: 3/1/19 8:10 PM
+Description: Ticking entity
+
+java.lang.IllegalArgumentException: firstmod:loot_tables/entities/golden_pig.json is already a registered built-in loot table
+	at net.minecraft.world.storage.loot.LootTableList.register(LootTableList.java:109)
+	at com.ccxia.firstmod.entity.EntityGoldenPig.getLootTable(EntityGoldenPig.java:21)
+	at net.minecraft.entity.EntityLiving.dropLoot(EntityLiving.java:590)
+	at net.minecraft.entity.EntityLivingBase.onDeath(EntityLivingBase.java:1301)
+	at net.minecraft.entity.passive.EntityPig.onDeath(EntityPig.java:208)
+	at net.minecraft.entity.EntityLivingBase.attackEntityFrom(EntityLivingBase.java:1117)
+	at net.minecraft.entity.passive.EntityAnimal.attackEntityFrom(EntityAnimal.java:82)
+	at net.minecraft.entity.EntityLivingBase.fall(EntityLivingBase.java:1448)
+	at net.minecraft.block.Block.onFallenUpon(Block.java:1029)
+	at net.minecraft.entity.Entity.updateFallState(Entity.java:1249)
+	at net.minecraft.entity.EntityLivingBase.updateFallState(EntityLivingBase.java:253)
+	at net.minecraft.entity.Entity.move(Entity.java:1001)
+	at net.minecraft.entity.EntityLivingBase.travel(EntityLivingBase.java:2148)
+	at net.minecraft.entity.passive.EntityPig.travel(EntityPig.java:327)
+	at net.minecraft.entity.EntityLivingBase.onLivingUpdate(EntityLivingBase.java:2599)
+	at net.minecraft.entity.EntityLiving.onLivingUpdate(EntityLiving.java:647)
+	at net.minecraft.entity.EntityAgeable.onLivingUpdate(EntityAgeable.java:201)
+	at net.minecraft.entity.passive.EntityAnimal.onLivingUpdate(EntityAnimal.java:49)
+	at com.ccxia.firstmod.entity.EntityGoldenPig.onLivingUpdate(EntityGoldenPig.java:15)
+	at net.minecraft.entity.EntityLivingBase.onUpdate(EntityLivingBase.java:2381)
+	at net.minecraft.entity.EntityLiving.onUpdate(EntityLiving.java:346)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2150)
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:870)
+	at net.minecraft.world.World.updateEntity(World.java:2109)
+	at net.minecraft.world.World.updateEntities(World.java:1913)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:642)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:840)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:741)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:590)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.world.storage.loot.LootTableList.register(LootTableList.java:109)
+	at com.ccxia.firstmod.entity.EntityGoldenPig.getLootTable(EntityGoldenPig.java:21)
+	at net.minecraft.entity.EntityLiving.dropLoot(EntityLiving.java:590)
+	at net.minecraft.entity.EntityLivingBase.onDeath(EntityLivingBase.java:1301)
+	at net.minecraft.entity.passive.EntityPig.onDeath(EntityPig.java:208)
+	at net.minecraft.entity.EntityLivingBase.attackEntityFrom(EntityLivingBase.java:1117)
+	at net.minecraft.entity.passive.EntityAnimal.attackEntityFrom(EntityAnimal.java:82)
+	at net.minecraft.entity.EntityLivingBase.fall(EntityLivingBase.java:1448)
+	at net.minecraft.block.Block.onFallenUpon(Block.java:1029)
+	at net.minecraft.entity.Entity.updateFallState(Entity.java:1249)
+	at net.minecraft.entity.EntityLivingBase.updateFallState(EntityLivingBase.java:253)
+	at net.minecraft.entity.Entity.move(Entity.java:1001)
+	at net.minecraft.entity.EntityLivingBase.travel(EntityLivingBase.java:2148)
+	at net.minecraft.entity.passive.EntityPig.travel(EntityPig.java:327)
+	at net.minecraft.entity.EntityLivingBase.onLivingUpdate(EntityLivingBase.java:2599)
+	at net.minecraft.entity.EntityLiving.onLivingUpdate(EntityLiving.java:647)
+	at net.minecraft.entity.EntityAgeable.onLivingUpdate(EntityAgeable.java:201)
+	at net.minecraft.entity.passive.EntityAnimal.onLivingUpdate(EntityAnimal.java:49)
+	at com.ccxia.firstmod.entity.EntityGoldenPig.onLivingUpdate(EntityGoldenPig.java:15)
+	at net.minecraft.entity.EntityLivingBase.onUpdate(EntityLivingBase.java:2381)
+	at net.minecraft.entity.EntityLiving.onUpdate(EntityLiving.java:346)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2150)
+	at net.minecraft.world.WorldServer.updateEntityWithOptionalForce(WorldServer.java:870)
+	at net.minecraft.world.World.updateEntity(World.java:2109)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:golden_pig (com.ccxia.firstmod.entity.EntityGoldenPig)
+	Entity ID: 6
+	Entity Name: 金猪
+	Entity's Exact location: 23.50, 4.00, 1998.50
+	Entity's Block location: World: (23,4,1998), Chunk: (at 7,0,14 in 1,124; contains blocks 16,0,1984 to 31,255,1999), Region: (0,3; contains chunks 0,96 to 31,127, blocks 0,0,1536 to 511,255,2047)
+	Entity's Momentum: 0.00, -1.25, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.updateEntities(World.java:1913)
+	at net.minecraft.world.WorldServer.updateEntities(WorldServer.java:642)
+
+-- Affected level --
+Details:
+	Level name: first mod
+	All players: 1 total; [EntityPlayerMP['Player506'/1, l='first mod', x=19.56, y=13.05, z=1999.29]]
+	Chunk stats: ServerChunkCache: 625 Drop: 0
+	Level seed: -2459812031492074187
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 3;minecraft:bedrock,2*minecraft:dirt,minecraft:grass;1;village
+	Level spawn location: World: (-34,4,2023), Chunk: (at 14,0,7 in -3,126; contains blocks -48,0,2016 to -33,255,2031), Region: (-1,3; contains chunks -32,96 to -1,127, blocks -512,0,1536 to -1,255,2047)
+	Level time: 440717 game time, 5000 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 1 (now: false), thunder time: 1 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:840)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:741)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:590)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_102, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 698144408 bytes (665 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.0.2490 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID        | Version      | Source                           | Signature |
+	|:--------- |:--------- |:------------ |:-------------------------------- |:--------- |
+	| UCHIJAAAA | minecraft | 1.12.2       | minecraft.jar                    | None      |
+	| UCHIJAAAA | mcp       | 9.42         | minecraft.jar                    | None      |
+	| UCHIJAAAA | FML       | 8.0.99.99    | forgeSrc-1.12.2-14.23.0.2490.jar | None      |
+	| UCHIJAAAA | forge     | 14.23.0.2490 | forgeSrc-1.12.2-14.23.0.2490.jar | None      |
+	| UCHIJAAAA | firstmod  | 1.0.1        | bin                              | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['Player506'/1, l='first mod', x=19.56, y=13.05, z=1999.29]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

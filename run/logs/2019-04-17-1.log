@@ -1,0 +1,2572 @@
+[16:07:55] [main/INFO]: Setting user: Player997
+[16:08:03] [main/WARN]: Skipping bad option: lastServer:
+[16:08:03] [main/INFO]: LWJGL Version: 2.9.4
+[16:08:13] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod, FMLFileResourcePack:WorldEdit
+[16:08:19] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:08:20] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[16:08:20] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:08:20] [Thread-5/INFO]: OpenAL initialized.
+[16:08:20] [Sound Library Loader/INFO]: Sound engine started
+[16:08:29] [main/INFO]: Created: 1024x512 textures-atlas
+[16:08:35] [main/WARN]: Skipping bad option: lastServer:
+[16:08:35] [main/INFO]: Narrator library for x64 successfully loaded
+[16:08:38] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:10:54] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[16:10:54] [Server thread/INFO]: Generating keypair
+[16:10:57] [Server thread/INFO]: Loaded 490 advancements
+[16:10:57] [Server thread/INFO]: Preparing start region for level 0
+[16:10:58] [Server thread/INFO]: Preparing spawn area: 94%
+[16:10:59] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:11:02] [Server thread/INFO]: Player997[local:E:64089c09] logged in with entity id 3 at (-39.88833447546689, 6.533486611704454, 1984.7543375960197)
+[16:11:02] [Server thread/INFO]: Player997加入了游戏
+[16:11:02] [Server thread/INFO]: Player997取得了进度[热腾腾的]
+[16:11:03] [Server thread/INFO]: Saving and pausing game...
+[16:11:03] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[16:11:03] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[16:11:03] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[16:11:03] [main/INFO]: [CHAT] Player997取得了进度[热腾腾的]
+[16:11:03] [main/INFO]: Loaded 37 advancements
+[16:11:09] [Server thread/INFO]: Saving and pausing game...
+[16:11:09] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[16:11:09] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[16:11:09] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[16:11:32] [Server thread/INFO]: Saving and pausing game...
+[16:11:32] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[16:11:32] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[16:11:32] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[16:11:45] [main/INFO]: [CHAT] Left click: select pos #1; Right click: select pos #2
+[16:11:56] [main/INFO]: [CHAT] First position set to (-31.0, 3.0, 1795.0).
+[16:12:29] [main/INFO]: [CHAT] Second position set to (16.0, 1.0, 1718.0) (11232).
+[16:12:33] [main/INFO]: [CHAT] Operation completed (11230 blocks affected).
+[16:12:37] [Server thread/INFO]: Saving and pausing game...
+[16:12:37] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[16:12:37] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[16:12:37] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[16:12:53] [main/INFO]: [CHAT] First position set to (17.0, 3.0, 1718.0) (6).
+[16:13:11] [main/INFO]: [CHAT] Second position set to (68.0, 1.0, 1793.0) (11856).
+[16:13:15] [main/INFO]: [CHAT] Operation completed (11854 blocks affected).
+[16:13:28] [Server thread/INFO]: Saving and pausing game...
+[16:13:28] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[16:13:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[16:13:28] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[16:13:36] [main/INFO]: [CHAT] First position set to (68.0, 3.0, 1794.0) (6).
+[16:13:54] [main/INFO]: [CHAT] Second position set to (-86.0, 1.0, 1673.0) (56730).
+[16:13:58] [main/INFO]: [CHAT] Operation completed (33784 blocks affected).
+[16:14:11] [main/INFO]: [CHAT] First position set to (-86.0, 3.0, 1672.0) (6).
+[16:14:46] [main/INFO]: [CHAT] Second position set to (67.0, 1.0, 1595.0) (36036).
+[16:14:48] [main/INFO]: [CHAT] Operation completed (36034 blocks affected).
+[16:15:08] [main/INFO]: [CHAT] First position set to (68.0, 3.0, 1595.0) (6).
+[16:15:33] [main/INFO]: [CHAT] First position set to (138.0, 3.0, 1793.0) (42984).
+[16:15:41] [main/INFO]: [CHAT] Second position set to (138.0, 1.0, 1793.0) (3).
+[16:15:46] [main/INFO]: [CHAT] Operation completed (1 blocks affected).
+[16:15:54] [main/INFO]: [CHAT] First position set to (138.0, 1.0, 1793.0) (1).
+[16:16:18] [Server thread/INFO]: Saving and pausing game...
+[16:16:18] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[16:16:18] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[16:16:18] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[16:16:19] [Server thread/INFO]: Stopping server
+[16:16:19] [Server thread/INFO]: Saving players
+[16:16:19] [Server thread/INFO]: Player997 lost connection: 连接中止
+[16:16:19] [Server thread/INFO]: Player997退出了游戏
+[16:16:19] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:16:19] [Server thread/INFO]: Saving worlds
+[16:16:19] [Server thread/INFO]: Saving chunks for level 'first mod'/overworld
+[16:16:19] [Server thread/INFO]: Saving chunks for level 'first mod'/the_nether
+[16:16:19] [Server thread/INFO]: Saving chunks for level 'first mod'/the_end
+[16:16:41] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[16:16:41] [Server thread/INFO]: Generating keypair
+[16:16:42] [Server thread/INFO]: Loaded 490 advancements
+[16:16:43] [Server thread/INFO]: Preparing start region for level 0
+[16:16:44] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:16:44] [Server thread/INFO]: Player997[local:E:e3af1eaf] logged in with entity id 8 at (-44.5, 1.0, -247.5)
+[16:16:44] [Server thread/INFO]: Player997加入了游戏
+[16:16:45] [Server thread/INFO]: Saving and pausing game...
+[16:16:45] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:16:46] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:16:46] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:16:55] [main/INFO]: [CHAT] Left click: select pos #1; Right click: select pos #2
+[16:17:07] [main/INFO]: Loaded 3 advancements
+[16:17:24] [main/INFO]: [CHAT] Second position set to (-28.0, 1.0, -289.0).
+[16:17:34] [main/INFO]: [CHAT] Make a region selection first.
+[16:17:48] [main/INFO]: [CHAT] Make a region selection first.
+[16:17:56] [main/INFO]: [CHAT] First position set to (-28.0, 1.0, -289.0) (1).
+[16:18:00] [main/INFO]: [CHAT] Second position set to (-57.0, 1.0, -260.0) (900).
+[16:18:05] [main/INFO]: [CHAT] Operation completed (870 blocks affected).
+[16:18:13] [Server thread/INFO]: Saving and pausing game...
+[16:18:13] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:18:13] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:18:13] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:18:15] [Server thread/INFO]: Saving and pausing game...
+[16:18:15] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:18:15] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:18:15] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:18:24] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:18:29] [Server thread/INFO]: Saving and pausing game...
+[16:18:29] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:18:29] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:18:29] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:18:33] [Server thread/INFO]: Saving and pausing game...
+[16:18:33] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:18:33] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:18:33] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:18:36] [Server thread/INFO]: Changing difficulty to HARD, from NORMAL
+[16:18:42] [main/INFO]: [CHAT] /gamemode, /gamerule
+[16:18:43] [main/INFO]: [CHAT] /gamemode, /gamerule
+[16:18:43] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:18:43] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:18:44] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:18:44] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:18:45] [main/INFO]: [CHAT] false, true
+[16:18:45] [Server thread/INFO]: [Player997: 游戏规则doDaylightCycle已经更新为 false]
+[16:18:45] [main/INFO]: [CHAT] 游戏规则doDaylightCycle已经更新为 false
+[16:18:54] [Server thread/INFO]: [Player997: 将时间设为15000]
+[16:18:54] [main/INFO]: [CHAT] 将时间设为15000
+[16:18:59] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:18:59] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:18:59] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:18:59] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:18:59] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:18:59] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:18:59] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:18:59] [main/INFO]: [CHAT] 已清除僵尸
+[16:18:59] [main/INFO]: [CHAT] 已清除僵尸
+[16:18:59] [main/INFO]: [CHAT] 已清除爬行者
+[16:18:59] [main/INFO]: [CHAT] 已清除爬行者
+[16:18:59] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸村民]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除女巫]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除女巫]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸村民
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除女巫
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除女巫
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.yellowDust]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sugar]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.yellowDust
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sugar
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:15] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:16] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:16] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:16] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:16] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:16] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:16] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:16] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:16] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:16] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:16] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:16] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:16] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:16] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:16] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:16] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:16] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:16] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:17] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:17] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:19:20] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:19:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:20] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:19:20] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:19:29] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸村民]
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸村民
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:29] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:29] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:29] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:43] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:43] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:43] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:43] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:43] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:43] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:43] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:47] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:47] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:47] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:47] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:47] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:48] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:48] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:48] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:48] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:48] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:48] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:48] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:48] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:48] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:48] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:48] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:48] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:48] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:48] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:48] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:48] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:48] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:48] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:48] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:48] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:48] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:48] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:48] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:48] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:48] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:49] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:50] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:50] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:50] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [main/INFO]: [CHAT] 已清除末影人
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [main/INFO]: [CHAT] 已清除史莱姆
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:50] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:50] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:50] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:50] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:50] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:50] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:50] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:50] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:50] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:51] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:51] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:51] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:51] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:51] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:51] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:51] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:51] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:51] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:51] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:51] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:19:51] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:51] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:51] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:19:51] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:51] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:51] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:19:51] [main/INFO]: [CHAT] 已清除item.item.string
+[16:19:51] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:51] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:51] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:51] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:51] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:51] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:51] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:52] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:19:52] [main/INFO]: [CHAT] 已清除骷髅
+[16:19:52] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:19:52] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:19:52] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:52] [Server thread/INFO]: [Player997: 已清除僵尸村民]
+[16:19:52] [main/INFO]: [CHAT] 已清除僵尸村民
+[16:19:52] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:52] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:53] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:53] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:19:53] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:53] [main/INFO]: [CHAT] 已清除僵尸
+[16:19:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:19:53] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:19:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:19:53] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:19:53] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:53] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:53] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:53] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:54] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:54] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:54] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:54] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:54] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:54] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:54] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:19:54] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:54] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:19:54] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:54] [main/INFO]: [CHAT] 已清除爬行者
+[16:19:54] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:54] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:19:54] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:54] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:19:56] [Server thread/INFO]: Saving and pausing game...
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:20:00] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:00] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:00] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:00] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:00] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:00] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:00] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:00] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:00] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:00] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:00] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:00] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:00] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:00] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:00] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:00] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:00] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:05] [Server thread/INFO]: Saving and pausing game...
+[16:20:05] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:20:05] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:20:05] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:20:09] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:09] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:09] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:09] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:09] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:09] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:09] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:09] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:09] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:09] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:11] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除女巫]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:11] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:11] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:11] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:11] [main/INFO]: [CHAT] 已清除末影人
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:11] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:11] [main/INFO]: [CHAT] 已清除女巫
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:11] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:11] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:11] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:11] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:12] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:12] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:12] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:12] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:12] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:12] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:12] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:12] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:12] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:12] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:12] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.sugar]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.sugar
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:20:14] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:14] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:14] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:14] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:14] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:14] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:14] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:14] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:14] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:14] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:16] [Server thread/INFO]: Saving and pausing game...
+[16:20:16] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:20:16] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:20:16] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:20:19] [Server thread/INFO]: Changing difficulty to PEACEFUL, from HARD
+[16:20:26] [Server thread/INFO]: Saving and pausing game...
+[16:20:26] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:20:26] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:20:26] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:20:28] [Server thread/INFO]: Changing difficulty to EASY, from PEACEFUL
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:20:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [main/INFO]: [CHAT] 已清除僵尸
+[16:20:46] [main/INFO]: [CHAT] 已清除爬行者
+[16:20:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:20:46] [Server thread/INFO]: Saving and pausing game...
+[16:20:46] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:20:46] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:20:46] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:20:50] [Server thread/INFO]: Changing difficulty to PEACEFUL, from EASY
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:20:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.string
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:20:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:20:55] [Server thread/INFO]: Saving and pausing game...
+[16:20:55] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:20:55] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:20:55] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:20:58] [Server thread/INFO]: Changing difficulty to EASY, from PEACEFUL
+[16:21:20] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [main/INFO]: [CHAT] 已清除末影人
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除末影人
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:21:20] [Server thread/INFO]: [Player997: 已清除僵尸村民]
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除末影人
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除末影人
+[16:21:20] [main/INFO]: [CHAT] 已清除末影人
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除末影人
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除骷髅
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸
+[16:21:20] [main/INFO]: [CHAT] 已清除爬行者
+[16:21:20] [main/INFO]: [CHAT] 已清除僵尸村民
+[16:21:21] [Server thread/INFO]: Saving and pausing game...
+[16:21:21] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:21:21] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:21:21] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:21:24] [Server thread/INFO]: Changing difficulty to PEACEFUL, from EASY
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:21:25] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.string
+[16:21:25] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:21:25] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:21:25] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:21:26] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:21:26] [Server thread/INFO]: Saving and pausing game...
+[16:21:26] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:21:26] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:21:26] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:21:54] [Server thread/INFO]: Saving and pausing game...
+[16:21:54] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:21:54] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:21:54] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:22:00] [Server thread/INFO]: Saving and pausing game...
+[16:22:00] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:22:00] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:22:00] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:22:03] [Server thread/INFO]: Changing difficulty to EASY, from PEACEFUL
+[16:22:08] [Server thread/INFO]: [Player997: 已清除女巫]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除女巫]
+[16:22:08] [main/INFO]: [CHAT] 已清除女巫
+[16:22:08] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除末影人
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸村民]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸村民]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [main/INFO]: [CHAT] 已清除女巫
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸村民
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸村民
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:08] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.glassBottle]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.glassBottle
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:08] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:08] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:08] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:08] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:09] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:09] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:09] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:09] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:09] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:09] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:09] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:09] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:09] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:09] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:09] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:09] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:09] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:09] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:09] [Server thread/INFO]: Saving and pausing game...
+[16:22:09] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:22:09] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:22:09] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:22:13] [Server thread/INFO]: Changing difficulty to PEACEFUL, from EASY
+[16:22:15] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:15] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:15] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:17] [Server thread/INFO]: Saving and pausing game...
+[16:22:17] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:22:17] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:22:17] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:22:19] [Server thread/INFO]: Changing difficulty to EASY, from PEACEFUL
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除末影人
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸村民]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [main/INFO]: [CHAT] 已清除末影人
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除末影人
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除末影人
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸村民
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:33] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:33] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:35] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:35] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.enderPearl]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:35] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:22:35] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:22:35] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.enderPearl
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:35] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:35] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:35] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:36] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:36] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:37] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:37] [main/INFO]: [CHAT] 已清除末影人
+[16:22:37] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:37] [main/INFO]: [CHAT] 已清除末影人
+[16:22:37] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:37] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:37] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:37] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:37] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:37] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:37] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:37] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:37] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:37] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:37] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:37] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:37] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:37] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:37] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:37] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:37] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:37] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:37] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:37] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:39] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:39] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:39] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:39] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:39] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:39] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:39] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:39] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:39] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:39] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:39] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:39] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:39] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:39] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:39] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:39] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:39] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:39] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:39] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:41] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:41] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:41] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:41] [Server thread/INFO]: [Player997: 已清除女巫]
+[16:22:41] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:41] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:41] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:41] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:41] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:41] [main/INFO]: [CHAT] 已清除女巫
+[16:22:41] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:41] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:41] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:41] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:41] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:41] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:41] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:42] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:42] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:42] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:42] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:42] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:42] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:42] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:42] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:44] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:44] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:44] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:44] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:44] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:44] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:44] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:44] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:44] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:44] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:44] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:44] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:44] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:44] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:44] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:44] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除末影人]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:45] [main/INFO]: [CHAT] 已清除末影人
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:45] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:45] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:45] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:45] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:45] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:45] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:45] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:46] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:46] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:46] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:46] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:46] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:22:46] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:46] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:46] [main/INFO]: [CHAT] 已清除史莱姆
+[16:22:46] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:46] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:47] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:47] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:47] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:47] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:47] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:47] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:47] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:47] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:47] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:47] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:47] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:47] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:47] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:48] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:22:48] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:22:48] [Server thread/INFO]: [Player997: 已清除史莱姆]
+[16:22:48] [main/INFO]: [CHAT] 已清除史莱姆
+[16:22:48] [main/INFO]: [CHAT] 已清除史莱姆
+[16:22:48] [main/INFO]: [CHAT] 已清除史莱姆
+[16:22:48] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:22:48] [Server thread/INFO]: [Player997: 已清除item.item.slimeball]
+[16:22:48] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:22:48] [main/INFO]: [CHAT] 已清除item.item.slimeball
+[16:22:48] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:48] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:48] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:48] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:48] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:48] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:48] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:48] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:48] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:49] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:49] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:49] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:49] [Server thread/INFO]: [Player997: 已清除蜘蛛]
+[16:22:49] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:49] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:49] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:49] [main/INFO]: [CHAT] 已清除蜘蛛
+[16:22:49] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:49] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:49] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:49] [Server thread/INFO]: [Player997: 已清除item.item.string]
+[16:22:49] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:49] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:49] [main/INFO]: [CHAT] 已清除item.item.string
+[16:22:49] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:49] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:49] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:49] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:50] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:50] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:50] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:50] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:50] [Server thread/INFO]: [Player997: 已清除僵尸]
+[16:22:50] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:50] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:50] [Server thread/INFO]: [Player997: 已清除爬行者]
+[16:22:50] [main/INFO]: [CHAT] 已清除僵尸
+[16:22:50] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:50] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:50] [main/INFO]: [CHAT] 已清除爬行者
+[16:22:51] [Server thread/INFO]: [Player997: 已清除item.item.rottenFlesh]
+[16:22:51] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:51] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:51] [Server thread/INFO]: [Player997: 已清除item.item.sulphur]
+[16:22:51] [main/INFO]: [CHAT] 已清除item.item.rottenFlesh
+[16:22:51] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:51] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:51] [main/INFO]: [CHAT] 已清除item.item.sulphur
+[16:22:51] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:51] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:51] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:51] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:51] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:52] [Server thread/INFO]: [Player997: 已清除item.item.arrow]
+[16:22:52] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:52] [main/INFO]: [CHAT] 已清除item.item.arrow
+[16:22:52] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:52] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:52] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:53] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:53] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:53] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:22:53] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:53] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:53] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:53] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:53] [Server thread/INFO]: [Player997: 已清除item.item.bone]
+[16:22:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:53] [main/INFO]: [CHAT] 已清除item.item.bone
+[16:22:53] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:53] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:53] [Server thread/INFO]: [Player997: 已清除骷髅]
+[16:22:53] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:53] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:53] [main/INFO]: [CHAT] 已清除骷髅
+[16:22:56] [Server thread/INFO]: Saving and pausing game...
+[16:22:56] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:22:56] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:22:56] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:22:59] [Server thread/INFO]: Changing difficulty to PEACEFUL, from EASY
+[16:23:03] [Server thread/INFO]: Saving and pausing game...
+[16:23:03] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:23:04] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:23:04] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:23:10] [main/INFO]: Loaded 4 advancements
+[16:23:17] [main/INFO]: [CHAT] 选择器'@e[type=!Player]'什么都没找到
+[16:23:18] [Server thread/INFO]: Saving and pausing game...
+[16:23:18] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:23:18] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:23:18] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:23:39] [Server thread/INFO]: Saving and pausing game...
+[16:23:39] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:23:39] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:23:39] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:24:18] [main/INFO]: [CHAT] clear, rain, thunder
+[16:24:18] [main/INFO]: [CHAT] clear, rain, thunder
+[16:24:19] [main/INFO]: [CHAT] clear, rain, thunder
+[16:24:19] [Server thread/INFO]: [Player997: 更换到雷雨天]
+[16:24:19] [main/INFO]: [CHAT] 更换到雷雨天
+[16:25:34] [main/INFO]: [CHAT] clear, rain, thunder
+[16:25:35] [Server thread/INFO]: [Player997: 更换到无天气]
+[16:25:35] [main/INFO]: [CHAT] 更换到无天气
+[16:25:44] [main/INFO]: [CHAT] clear, rain, thunder
+[16:25:48] [main/INFO]: [CHAT] clear, rain, thunder
+[16:25:48] [main/INFO]: [CHAT] clear, rain, thunder
+[16:25:48] [main/INFO]: [CHAT] clear, rain, thunder
+[16:25:49] [Server thread/INFO]: [Player997: 更换到雷雨天]
+[16:25:49] [main/INFO]: [CHAT] 更换到雷雨天
+[16:26:37] [main/INFO]: [CHAT] clear, rain, thunder
+[16:26:38] [Server thread/INFO]: [Player997: 更换到无天气]
+[16:26:38] [main/INFO]: [CHAT] 更换到无天气
+[16:27:04] [Server thread/INFO]: Saving and pausing game...
+[16:27:04] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:27:04] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:27:04] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:27:57] [Server thread/INFO]: Player997取得了进度[冰桶挑战]
+[16:27:57] [main/INFO]: [CHAT] Player997取得了进度[冰桶挑战]
+[16:27:57] [main/INFO]: Loaded 15 advancements
+[16:27:59] [Server thread/INFO]: Saving and pausing game...
+[16:27:59] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:27:59] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:27:59] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:28:00] [Server thread/INFO]: Stopping server
+[16:28:00] [Server thread/INFO]: Saving players
+[16:28:00] [Server thread/INFO]: Player997 lost connection: 连接中止
+[16:28:00] [Server thread/INFO]: Player997退出了游戏
+[16:28:00] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:28:00] [Server thread/INFO]: Saving worlds
+[16:28:00] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:28:00] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:28:00] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:29:21] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[16:29:21] [Server thread/INFO]: Generating keypair
+[16:29:22] [Server thread/INFO]: Loaded 490 advancements
+[16:29:22] [Server thread/INFO]: Preparing start region for level 0
+[16:29:22] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:29:22] [Server thread/INFO]: Player997[local:E:01d7f41c] logged in with entity id 12364 at (-45.33646539172296, 2.0, -272.5611610423166)
+[16:29:22] [Server thread/INFO]: Player997加入了游戏
+[16:29:23] [Server thread/INFO]: Saving and pausing game...
+[16:29:23] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:29:23] [main/INFO]: Loaded 15 advancements
+[16:29:23] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:29:23] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:29:33] [Server thread/INFO]: Saving and pausing game...
+[16:29:33] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:29:33] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:29:33] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:29:34] [Server thread/INFO]: Stopping server
+[16:29:34] [Server thread/INFO]: Saving players
+[16:29:34] [Server thread/INFO]: Player997 lost connection: 连接中止
+[16:29:34] [Server thread/INFO]: Player997退出了游戏
+[16:29:34] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:29:34] [Server thread/INFO]: Saving worlds
+[16:29:34] [Server thread/INFO]: Saving chunks for level 'RNG'/overworld
+[16:29:34] [Server thread/INFO]: Saving chunks for level 'RNG'/the_nether
+[16:29:34] [Server thread/INFO]: Saving chunks for level 'RNG'/the_end
+[16:30:08] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[16:30:08] [Server thread/INFO]: Generating keypair
+[16:30:08] [Server thread/INFO]: Loaded 490 advancements
+[16:30:09] [Server thread/INFO]: Preparing start region for level 0
+[16:30:10] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:30:10] [Server thread/INFO]: Player997[local:E:06a7e674] logged in with entity id 12366 at (630.5, 1.0, 528.5)
+[16:30:10] [Server thread/INFO]: Player997加入了游戏
+[16:30:11] [Server thread/INFO]: Saving and pausing game...
+[16:30:11] [Server thread/INFO]: Saving chunks for level 'leidian'/overworld
+[16:30:11] [Server thread/INFO]: Saving chunks for level 'leidian'/the_nether
+[16:30:11] [Server thread/INFO]: Saving chunks for level 'leidian'/the_end
+[16:30:19] [Server thread/INFO]: Saving and pausing game...
+[16:30:19] [Server thread/INFO]: Saving chunks for level 'leidian'/overworld
+[16:30:19] [Server thread/INFO]: Saving chunks for level 'leidian'/the_nether
+[16:30:19] [Server thread/INFO]: Saving chunks for level 'leidian'/the_end
+[16:30:21] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+[16:30:28] [main/INFO]: [CHAT] /gamemode, /gamerule
+[16:30:28] [main/INFO]: [CHAT] adventure, creative, spectator, survival
+[16:30:28] [main/INFO]: [CHAT] adventure, creative, spectator, survival
+[16:30:28] [main/INFO]: [CHAT] adventure, creative, spectator, survival
+[16:30:31] [main/INFO]: [CHAT] /gamemode, /gamerule
+[16:30:31] [main/INFO]: [CHAT] /gamemode, /gamerule
+[16:30:32] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:30:32] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:30:34] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:30:35] [main/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[16:30:35] [main/INFO]: [CHAT] false, true
+[16:30:36] [Server thread/INFO]: [Player997: 游戏规则doDaylightCycle已经更新为 false]
+[16:30:36] [main/INFO]: [CHAT] 游戏规则doDaylightCycle已经更新为 false
+[16:30:55] [Server thread/INFO]: Saving and pausing game...
+[16:30:55] [Server thread/INFO]: Saving chunks for level 'leidian'/overworld
+[16:30:55] [Server thread/INFO]: Saving chunks for level 'leidian'/the_nether
+[16:30:55] [Server thread/INFO]: Saving chunks for level 'leidian'/the_end
+[16:32:38] [Server thread/INFO]: Player997取得了进度[冰桶挑战]
+[16:32:38] [main/INFO]: [CHAT] Player997取得了进度[冰桶挑战]
+[16:32:38] [main/INFO]: Loaded 12 advancements
+[16:32:51] [main/INFO]: [CHAT] clear, rain, thunder
+[16:33:31] [main/INFO]: [CHAT] clear, rain, thunder
+[16:33:39] [Server thread/INFO]: [Player997: 更换到雷雨天]
+[16:33:39] [main/INFO]: [CHAT] 更换到雷雨天
+[16:34:19] [main/INFO]: [CHAT] clear, rain, thunder
+[16:34:19] [Server thread/INFO]: [Player997: 更换到无天气]
+[16:34:19] [main/INFO]: [CHAT] 更换到无天气
+[16:35:01] [main/INFO]: [CHAT] clear, rain, thunder
+[16:35:01] [main/INFO]: [CHAT] clear, rain, thunder
+[16:35:02] [main/INFO]: [CHAT] clear, rain, thunder
+[16:35:02] [Server thread/INFO]: [Player997: 更换到雷雨天]
+[16:35:02] [main/INFO]: [CHAT] 更换到雷雨天
+[16:35:42] [main/INFO]: [CHAT] clear, rain, thunder
+[16:35:42] [Server thread/INFO]: [Player997: 更换到无天气]
+[16:35:42] [main/INFO]: [CHAT] 更换到无天气
+[16:36:05] [main/INFO]: [CHAT] clear, rain, thunder
+[16:36:07] [main/INFO]: [CHAT] clear, rain, thunder
+[16:36:08] [main/INFO]: [CHAT] clear, rain, thunder
+[16:36:08] [main/INFO]: [CHAT] clear, rain, thunder
+[16:36:08] [Server thread/INFO]: [Player997: 更换到雷雨天]
+[16:36:08] [main/INFO]: [CHAT] 更换到雷雨天
+[16:36:40] [main/INFO]: [CHAT] clear, rain, thunder
+[16:36:40] [Server thread/INFO]: [Player997: 更换到无天气]
+[16:36:40] [main/INFO]: [CHAT] 更换到无天气
+[16:37:26] [Server thread/INFO]: Saving and pausing game...
+[16:37:26] [Server thread/INFO]: Saving chunks for level 'leidian'/overworld
+[16:37:26] [Server thread/INFO]: Saving chunks for level 'leidian'/the_nether
+[16:37:26] [Server thread/INFO]: Saving chunks for level 'leidian'/the_end
+[16:38:05] [Server thread/INFO]: Saving and pausing game...
+[16:38:05] [Server thread/INFO]: Saving chunks for level 'leidian'/overworld
+[16:38:05] [Server thread/INFO]: Saving chunks for level 'leidian'/the_nether
+[16:38:05] [Server thread/INFO]: Saving chunks for level 'leidian'/the_end
+[16:38:28] [Server thread/INFO]: Stopping server
+[16:38:28] [Server thread/INFO]: Saving players
+[16:38:28] [Server thread/INFO]: Player997 lost connection: 连接中止
+[16:38:28] [Server thread/INFO]: Player997退出了游戏
+[16:38:28] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:38:28] [Server thread/INFO]: Saving worlds
+[16:38:28] [Server thread/INFO]: Saving chunks for level 'leidian'/overworld
+[16:38:28] [Server thread/INFO]: Saving chunks for level 'leidian'/the_nether
+[16:38:28] [Server thread/INFO]: Saving chunks for level 'leidian'/the_end
+[16:39:14] [main/INFO]: Stopping!
+[16:39:14] [main/INFO]: SoundSystem shutting down...
+[16:39:15] [main/WARN]: Author: Paul Lamb, www.paulscode.com
